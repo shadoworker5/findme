@@ -1,0 +1,28 @@
+[Fri Oct  7 22:35:57 2022] PHP 8.1.5 Development Server (http://127.0.0.1:8000) started
+[Fri Oct  7 22:36:09 2022] 127.0.0.1:1044 Accepted
+[Fri Oct  7 22:36:09 2022] PHP Warning:  Undefined variable $data in C:\Users\Kassoum\Documents\Cyber security\codes\Hacking Tools\Pentest_tools\phising_test\views\zoom\index.php on line 3
+[Fri Oct  7 22:36:09 2022] 127.0.0.1:1044 [200]: GET /
+[Fri Oct  7 22:36:09 2022] 127.0.0.1:1044 Closing
+[Fri Oct  7 22:38:20 2022] 127.0.0.1:1045 Accepted
+[Fri Oct  7 22:38:20 2022] 127.0.0.1:1045 [200]: GET /
+[Fri Oct  7 22:38:20 2022] 127.0.0.1:1045 Closing
+[Fri Oct  7 22:38:20 2022] 127.0.0.1:1046 Accepted
+[Fri Oct  7 22:38:20 2022] 127.0.0.1:1046 [200]: GET /js/script.js
+[Fri Oct  7 22:38:20 2022] 127.0.0.1:1046 Closing
+[Fri Oct  7 22:38:20 2022] 127.0.0.1:1047 Accepted
+[Fri Oct  7 22:38:20 2022] PHP Warning:  Undefined array key "HTTP_X_FORWARDED_FOR" in C:\Users\Kassoum\Documents\Cyber security\codes\Hacking Tools\Pentest_tools\phising_test\php\helpers.php on line 31
+[Fri Oct  7 22:38:20 2022] 127.0.0.1:1047 [200]: POST /query_handler.php
+[Fri Oct  7 22:38:20 2022] 127.0.0.1:1047 Closing
+[Fri Oct  7 22:38:20 2022] 127.0.0.1:1048 Accepted
+[Fri Oct  7 22:38:20 2022] 127.0.0.1:1048 [404]: GET /zoom.ico - No such file or directory
+[Fri Oct  7 22:38:20 2022] 127.0.0.1:1048 Closing
+[Fri Oct  7 22:38:30 2022] 127.0.0.1:1049 Accepted
+[Fri Oct  7 22:38:30 2022] 127.0.0.1:1049 [200]: GET /
+[Fri Oct  7 22:38:30 2022] 127.0.0.1:1049 Closing
+[Fri Oct  7 22:38:30 2022] 127.0.0.1:1050 Accepted
+[Fri Oct  7 22:38:30 2022] 127.0.0.1:1050 [200]: GET /js/script.js
+[Fri Oct  7 22:38:30 2022] 127.0.0.1:1050 Closing
+[Fri Oct  7 22:38:31 2022] 127.0.0.1:1051 Accepted
+[Fri Oct  7 22:38:31 2022] PHP Warning:  Undefined array key "HTTP_X_FORWARDED_FOR" in C:\Users\Kassoum\Documents\Cyber security\codes\Hacking Tools\Pentest_tools\phising_test\php\helpers.php on line 31
+[Fri Oct  7 22:38:31 2022] 127.0.0.1:1051 [200]: POST /query_handler.php
+[Fri Oct  7 22:38:31 2022] 127.0.0.1:1051 Closing
