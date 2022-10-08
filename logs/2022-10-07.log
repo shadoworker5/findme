@@ -1,787 +1,129 @@
-[Fri Oct  7 23:06:32 2022] PHP 8.1.5 Development Server (http://127.0.0.1:8000) started
-[Fri Oct  7 23:06:42 2022] 127.0.0.1:1490 Accepted
-[Fri Oct  7 23:06:42 2022] 127.0.0.1:1490 [200]: GET /
-[Fri Oct  7 23:06:42 2022] 127.0.0.1:1490 Closing
-[Fri Oct  7 23:06:42 2022] 127.0.0.1:1491 Accepted
-[Fri Oct  7 23:06:42 2022] 127.0.0.1:1492 Accepted
-[Fri Oct  7 23:06:42 2022] 127.0.0.1:1493 Accepted
-[Fri Oct  7 23:06:42 2022] 127.0.0.1:1494 Accepted
-[Fri Oct  7 23:06:42 2022] 127.0.0.1:1491 [200]: GET /css/css
-[Fri Oct  7 23:06:42 2022] 127.0.0.1:1491 Closing
-[Fri Oct  7 23:06:42 2022] 127.0.0.1:1492 [200]: GET /css/bootstrap.min.css
-[Fri Oct  7 23:06:42 2022] 127.0.0.1:1492 Closing
-[Fri Oct  7 23:06:42 2022] 127.0.0.1:1493 [200]: GET /css/telegram.css
-[Fri Oct  7 23:06:42 2022] 127.0.0.1:1494 [200]: GET /js/jquery.min.js
-[Fri Oct  7 23:06:42 2022] 127.0.0.1:1493 Closing
-[Fri Oct  7 23:06:42 2022] 127.0.0.1:1494 Closing
-[Fri Oct  7 23:06:42 2022] 127.0.0.1:1495 Accepted
-[Fri Oct  7 23:06:42 2022] 127.0.0.1:1495 [200]: GET /js/script.js
-[Fri Oct  7 23:06:42 2022] 127.0.0.1:1495 Closing
-[Fri Oct  7 23:06:42 2022] 127.0.0.1:1496 Accepted
-[Fri Oct  7 23:06:42 2022] 127.0.0.1:1496 [200]: GET /images/spinner.png
-[Fri Oct  7 23:06:42 2022] 127.0.0.1:1496 Closing
-[Fri Oct  7 23:06:42 2022] 127.0.0.1:1497 Accepted
-[Fri Oct  7 23:06:42 2022] 127.0.0.1:1497 [200]: GET /images/Arrow_1x.png
-[Fri Oct  7 23:06:42 2022] 127.0.0.1:1497 Closing
-[Fri Oct  7 23:06:42 2022] 127.0.0.1:1498 Accepted
-[Fri Oct  7 23:06:42 2022] PHP Warning:  Undefined array key "HTTP_X_FORWARDED_FOR" in C:\Users\Kassoum\Documents\Cyber security\codes\Hacking Tools\Pentest_tools\phising_test\php\helpers.php on line 31
-[Fri Oct  7 23:06:42 2022] 127.0.0.1:1498 [200]: POST /query_handler.php
-[Fri Oct  7 23:06:42 2022] 127.0.0.1:1498 Closing
-[Fri Oct  7 23:06:43 2022] 127.0.0.1:1500 Accepted
-[Fri Oct  7 23:06:43 2022] 127.0.0.1:1500 [200]: GET /
-[Fri Oct  7 23:06:43 2022] 127.0.0.1:1500 Closing
-[Fri Oct  7 23:06:43 2022] 127.0.0.1:1501 Accepted
-[Fri Oct  7 23:06:43 2022] 127.0.0.1:1502 Accepted
-[Fri Oct  7 23:06:43 2022] 127.0.0.1:1501 [200]: GET /css/css
-[Fri Oct  7 23:06:43 2022] 127.0.0.1:1502 [200]: GET /js/jquery.min.js
-[Fri Oct  7 23:06:43 2022] 127.0.0.1:1501 Closing
-[Fri Oct  7 23:06:43 2022] 127.0.0.1:1503 Accepted
-[Fri Oct  7 23:06:43 2022] 127.0.0.1:1502 Closing
-[Fri Oct  7 23:06:43 2022] 127.0.0.1:1504 Accepted
-[Fri Oct  7 23:06:43 2022] 127.0.0.1:1503 [200]: GET /css/bootstrap.min.css
-[Fri Oct  7 23:06:43 2022] 127.0.0.1:1504 [200]: GET /css/telegram.css
-[Fri Oct  7 23:06:43 2022] 127.0.0.1:1503 Closing
-[Fri Oct  7 23:06:43 2022] 127.0.0.1:1504 Closing
-[Fri Oct  7 23:06:43 2022] 127.0.0.1:1505 Accepted
-[Fri Oct  7 23:06:43 2022] 127.0.0.1:1505 [200]: GET /js/script.js
-[Fri Oct  7 23:06:43 2022] 127.0.0.1:1505 Closing
-[Fri Oct  7 23:06:43 2022] 127.0.0.1:1506 Accepted
-[Fri Oct  7 23:06:43 2022] 127.0.0.1:1506 [200]: GET /images/spinner.png
-[Fri Oct  7 23:06:43 2022] 127.0.0.1:1506 Closing
-[Fri Oct  7 23:06:43 2022] 127.0.0.1:1507 Accepted
-[Fri Oct  7 23:06:43 2022] 127.0.0.1:1507 [200]: GET /images/Arrow_1x.png
-[Fri Oct  7 23:06:43 2022] 127.0.0.1:1507 Closing
-[Fri Oct  7 23:06:44 2022] 127.0.0.1:1508 Accepted
-[Fri Oct  7 23:06:44 2022] PHP Warning:  Undefined array key "HTTP_X_FORWARDED_FOR" in C:\Users\Kassoum\Documents\Cyber security\codes\Hacking Tools\Pentest_tools\phising_test\php\helpers.php on line 31
-[Fri Oct  7 23:06:44 2022] 127.0.0.1:1508 [200]: POST /query_handler.php
-[Fri Oct  7 23:06:44 2022] 127.0.0.1:1508 Closing
-[Fri Oct  7 23:09:22 2022] 127.0.0.1:1578 Accepted
-[Fri Oct  7 23:09:22 2022] 127.0.0.1:1578 [200]: GET /
-[Fri Oct  7 23:09:22 2022] 127.0.0.1:1578 Closing
-[Fri Oct  7 23:09:22 2022] 127.0.0.1:1579 Accepted
-[Fri Oct  7 23:09:22 2022] 127.0.0.1:1579 [200]: GET /js/jquery.min.js
-[Fri Oct  7 23:09:22 2022] 127.0.0.1:1579 Closing
-[Fri Oct  7 23:09:22 2022] 127.0.0.1:1580 Accepted
-[Fri Oct  7 23:09:22 2022] 127.0.0.1:1581 Accepted
-[Fri Oct  7 23:09:22 2022] 127.0.0.1:1582 Accepted
-[Fri Oct  7 23:09:22 2022] 127.0.0.1:1580 [200]: GET /css/css
-[Fri Oct  7 23:09:22 2022] 127.0.0.1:1580 Closing
-[Fri Oct  7 23:09:22 2022] 127.0.0.1:1581 [200]: GET /css/bootstrap.min.css
-[Fri Oct  7 23:09:22 2022] 127.0.0.1:1582 [200]: GET /css/telegram.css
-[Fri Oct  7 23:09:22 2022] 127.0.0.1:1581 Closing
-[Fri Oct  7 23:09:22 2022] 127.0.0.1:1582 Closing
-[Fri Oct  7 23:09:22 2022] 127.0.0.1:1583 Accepted
-[Fri Oct  7 23:09:22 2022] 127.0.0.1:1583 [200]: GET /js/script.js
-[Fri Oct  7 23:09:22 2022] 127.0.0.1:1583 Closing
-[Fri Oct  7 23:09:22 2022] 127.0.0.1:1584 Accepted
-[Fri Oct  7 23:09:22 2022] 127.0.0.1:1584 [200]: GET /images/spinner.png
-[Fri Oct  7 23:09:22 2022] 127.0.0.1:1584 Closing
-[Fri Oct  7 23:09:22 2022] 127.0.0.1:1585 Accepted
-[Fri Oct  7 23:09:22 2022] 127.0.0.1:1585 [200]: GET /images/Arrow_1x.png
-[Fri Oct  7 23:09:22 2022] 127.0.0.1:1585 Closing
-[Fri Oct  7 23:09:22 2022] 127.0.0.1:1586 Accepted
-[Fri Oct  7 23:09:22 2022] PHP Warning:  Undefined array key "HTTP_X_FORWARDED_FOR" in C:\Users\Kassoum\Documents\Cyber security\codes\Hacking Tools\Pentest_tools\phising_test\php\helpers.php on line 31
-[Fri Oct  7 23:09:22 2022] 127.0.0.1:1586 [200]: POST /query_handler.php
-[Fri Oct  7 23:09:22 2022] 127.0.0.1:1586 Closing
-[Fri Oct  7 23:10:06 2022] 127.0.0.1:1607 Accepted
-[Fri Oct  7 23:10:06 2022] 127.0.0.1:1607 [200]: GET /
-[Fri Oct  7 23:10:06 2022] 127.0.0.1:1607 Closing
-[Fri Oct  7 23:10:06 2022] 127.0.0.1:1608 Accepted
-[Fri Oct  7 23:10:06 2022] 127.0.0.1:1609 Accepted
-[Fri Oct  7 23:10:06 2022] 127.0.0.1:1610 Accepted
-[Fri Oct  7 23:10:06 2022] 127.0.0.1:1611 Accepted
-[Fri Oct  7 23:10:06 2022] 127.0.0.1:1608 [200]: GET /css/css
-[Fri Oct  7 23:10:06 2022] 127.0.0.1:1609 [200]: GET /css/bootstrap.min.css
-[Fri Oct  7 23:10:06 2022] 127.0.0.1:1610 [200]: GET /css/telegram.css
-[Fri Oct  7 23:10:06 2022] 127.0.0.1:1611 [200]: GET /js/jquery.min.js
-[Fri Oct  7 23:10:06 2022] 127.0.0.1:1608 Closing
-[Fri Oct  7 23:10:06 2022] 127.0.0.1:1609 Closing
-[Fri Oct  7 23:10:06 2022] 127.0.0.1:1610 Closing
-[Fri Oct  7 23:10:06 2022] 127.0.0.1:1611 Closing
-[Fri Oct  7 23:10:07 2022] 127.0.0.1:1612 Accepted
-[Fri Oct  7 23:10:07 2022] 127.0.0.1:1613 Accepted
-[Fri Oct  7 23:10:07 2022] 127.0.0.1:1612 [200]: GET /js/script.js
-[Fri Oct  7 23:10:07 2022] 127.0.0.1:1613 [200]: GET /images/spinner.png
-[Fri Oct  7 23:10:07 2022] 127.0.0.1:1612 Closing
-[Fri Oct  7 23:10:07 2022] 127.0.0.1:1613 Closing
-[Fri Oct  7 23:10:07 2022] 127.0.0.1:1614 Accepted
-[Fri Oct  7 23:10:07 2022] 127.0.0.1:1614 [200]: GET /images/Arrow_1x.png
-[Fri Oct  7 23:10:07 2022] 127.0.0.1:1614 Closing
-[Fri Oct  7 23:10:07 2022] 127.0.0.1:1615 Accepted
-[Fri Oct  7 23:10:07 2022] PHP Warning:  Undefined array key "HTTP_X_FORWARDED_FOR" in C:\Users\Kassoum\Documents\Cyber security\codes\Hacking Tools\Pentest_tools\phising_test\php\helpers.php on line 31
-[Fri Oct  7 23:10:07 2022] 127.0.0.1:1615 [200]: POST /query_handler.php
-[Fri Oct  7 23:10:07 2022] 127.0.0.1:1615 Closing
-[Fri Oct  7 23:10:07 2022] 127.0.0.1:1616 Accepted
-[Fri Oct  7 23:10:07 2022] 127.0.0.1:1616 [200]: GET /
-[Fri Oct  7 23:10:07 2022] 127.0.0.1:1616 Closing
-[Fri Oct  7 23:10:07 2022] 127.0.0.1:1617 Accepted
-[Fri Oct  7 23:10:07 2022] 127.0.0.1:1618 Accepted
-[Fri Oct  7 23:10:07 2022] 127.0.0.1:1617 [200]: GET /css/css
-[Fri Oct  7 23:10:07 2022] 127.0.0.1:1618 [200]: GET /js/jquery.min.js
-[Fri Oct  7 23:10:07 2022] 127.0.0.1:1617 Closing
-[Fri Oct  7 23:10:07 2022] 127.0.0.1:1619 Accepted
-[Fri Oct  7 23:10:07 2022] 127.0.0.1:1618 Closing
-[Fri Oct  7 23:10:07 2022] 127.0.0.1:1619 [200]: GET /css/bootstrap.min.css
-[Fri Oct  7 23:10:07 2022] 127.0.0.1:1619 Closing
-[Fri Oct  7 23:10:07 2022] 127.0.0.1:1620 Accepted
-[Fri Oct  7 23:10:07 2022] 127.0.0.1:1620 [200]: GET /css/telegram.css
-[Fri Oct  7 23:10:07 2022] 127.0.0.1:1620 Closing
-[Fri Oct  7 23:10:07 2022] 127.0.0.1:1621 Accepted
-[Fri Oct  7 23:10:07 2022] 127.0.0.1:1622 Accepted
-[Fri Oct  7 23:10:07 2022] 127.0.0.1:1621 [200]: GET /js/script.js
-[Fri Oct  7 23:10:07 2022] 127.0.0.1:1622 [200]: GET /images/spinner.png
-[Fri Oct  7 23:10:07 2022] 127.0.0.1:1621 Closing
-[Fri Oct  7 23:10:07 2022] 127.0.0.1:1622 Closing
-[Fri Oct  7 23:10:08 2022] 127.0.0.1:1623 Accepted
-[Fri Oct  7 23:10:08 2022] 127.0.0.1:1623 [200]: GET /images/Arrow_1x.png
-[Fri Oct  7 23:10:08 2022] 127.0.0.1:1623 Closing
-[Fri Oct  7 23:10:08 2022] 127.0.0.1:1624 Accepted
-[Fri Oct  7 23:10:08 2022] PHP Warning:  Undefined array key "HTTP_X_FORWARDED_FOR" in C:\Users\Kassoum\Documents\Cyber security\codes\Hacking Tools\Pentest_tools\phising_test\php\helpers.php on line 31
-[Fri Oct  7 23:10:08 2022] 127.0.0.1:1624 [200]: POST /query_handler.php
-[Fri Oct  7 23:10:08 2022] 127.0.0.1:1624 Closing
-[Fri Oct  7 23:10:27 2022] 127.0.0.1:1633 Accepted
-[Fri Oct  7 23:10:27 2022] 127.0.0.1:1633 [200]: GET /
-[Fri Oct  7 23:10:27 2022] 127.0.0.1:1633 Closing
-[Fri Oct  7 23:10:27 2022] 127.0.0.1:1634 Accepted
-[Fri Oct  7 23:10:27 2022] 127.0.0.1:1635 Accepted
-[Fri Oct  7 23:10:28 2022] 127.0.0.1:1636 Accepted
-[Fri Oct  7 23:10:28 2022] 127.0.0.1:1637 Accepted
-[Fri Oct  7 23:10:28 2022] 127.0.0.1:1634 [200]: GET /css/css
-[Fri Oct  7 23:10:28 2022] 127.0.0.1:1635 [200]: GET /css/bootstrap.min.css
-[Fri Oct  7 23:10:28 2022] 127.0.0.1:1636 [200]: GET /css/telegram.css
-[Fri Oct  7 23:10:28 2022] 127.0.0.1:1637 [200]: GET /js/jquery.min.js
-[Fri Oct  7 23:10:28 2022] 127.0.0.1:1634 Closing
-[Fri Oct  7 23:10:28 2022] 127.0.0.1:1635 Closing
-[Fri Oct  7 23:10:28 2022] 127.0.0.1:1636 Closing
-[Fri Oct  7 23:10:28 2022] 127.0.0.1:1637 Closing
-[Fri Oct  7 23:10:28 2022] 127.0.0.1:1639 Accepted
-[Fri Oct  7 23:10:28 2022] 127.0.0.1:1639 [200]: GET /js/script.js
-[Fri Oct  7 23:10:28 2022] 127.0.0.1:1639 Closing
-[Fri Oct  7 23:10:28 2022] 127.0.0.1:1640 Accepted
-[Fri Oct  7 23:10:28 2022] 127.0.0.1:1640 [200]: GET /images/spinner.png
-[Fri Oct  7 23:10:28 2022] 127.0.0.1:1640 Closing
-[Fri Oct  7 23:10:28 2022] 127.0.0.1:1641 Accepted
-[Fri Oct  7 23:10:28 2022] 127.0.0.1:1641 [200]: GET /images/Arrow_1x.png
-[Fri Oct  7 23:10:28 2022] 127.0.0.1:1641 Closing
-[Fri Oct  7 23:10:28 2022] 127.0.0.1:1642 Accepted
-[Fri Oct  7 23:10:28 2022] PHP Warning:  Undefined array key "HTTP_X_FORWARDED_FOR" in C:\Users\Kassoum\Documents\Cyber security\codes\Hacking Tools\Pentest_tools\phising_test\php\helpers.php on line 31
-[Fri Oct  7 23:10:28 2022] 127.0.0.1:1642 [200]: POST /query_handler.php
-[Fri Oct  7 23:10:28 2022] 127.0.0.1:1642 Closing
-[Fri Oct  7 23:10:28 2022] 127.0.0.1:1643 Accepted
-[Fri Oct  7 23:10:28 2022] 127.0.0.1:1643 [200]: GET /
-[Fri Oct  7 23:10:28 2022] 127.0.0.1:1643 Closing
-[Fri Oct  7 23:10:28 2022] 127.0.0.1:1644 Accepted
-[Fri Oct  7 23:10:28 2022] 127.0.0.1:1645 Accepted
-[Fri Oct  7 23:10:28 2022] 127.0.0.1:1644 [200]: GET /css/css
-[Fri Oct  7 23:10:28 2022] 127.0.0.1:1645 [200]: GET /js/jquery.min.js
-[Fri Oct  7 23:10:28 2022] 127.0.0.1:1644 Closing
-[Fri Oct  7 23:10:28 2022] 127.0.0.1:1646 Accepted
-[Fri Oct  7 23:10:28 2022] 127.0.0.1:1645 Closing
-[Fri Oct  7 23:10:28 2022] 127.0.0.1:1646 [200]: GET /css/bootstrap.min.css
-[Fri Oct  7 23:10:28 2022] 127.0.0.1:1646 Closing
-[Fri Oct  7 23:10:28 2022] 127.0.0.1:1647 Accepted
-[Fri Oct  7 23:10:28 2022] 127.0.0.1:1647 [200]: GET /css/telegram.css
-[Fri Oct  7 23:10:28 2022] 127.0.0.1:1647 Closing
-[Fri Oct  7 23:10:28 2022] 127.0.0.1:1648 Accepted
-[Fri Oct  7 23:10:28 2022] 127.0.0.1:1649 Accepted
-[Fri Oct  7 23:10:28 2022] 127.0.0.1:1648 [200]: GET /js/script.js
-[Fri Oct  7 23:10:28 2022] 127.0.0.1:1649 [200]: GET /images/spinner.png
-[Fri Oct  7 23:10:28 2022] 127.0.0.1:1648 Closing
-[Fri Oct  7 23:10:28 2022] 127.0.0.1:1649 Closing
-[Fri Oct  7 23:10:28 2022] 127.0.0.1:1650 Accepted
-[Fri Oct  7 23:10:28 2022] 127.0.0.1:1650 [200]: GET /images/Arrow_1x.png
-[Fri Oct  7 23:10:28 2022] 127.0.0.1:1650 Closing
-[Fri Oct  7 23:10:28 2022] 127.0.0.1:1651 Accepted
-[Fri Oct  7 23:10:28 2022] PHP Warning:  Undefined array key "HTTP_X_FORWARDED_FOR" in C:\Users\Kassoum\Documents\Cyber security\codes\Hacking Tools\Pentest_tools\phising_test\php\helpers.php on line 31
-[Fri Oct  7 23:10:28 2022] 127.0.0.1:1651 [200]: POST /query_handler.php
-[Fri Oct  7 23:10:28 2022] 127.0.0.1:1651 Closing
-[Fri Oct  7 23:10:37 2022] 127.0.0.1:1655 Accepted
-[Fri Oct  7 23:10:37 2022] 127.0.0.1:1656 Accepted
-[Fri Oct  7 23:10:37 2022] 127.0.0.1:1657 Accepted
-[Fri Oct  7 23:10:37 2022] 127.0.0.1:1655 [200]: GET /css/css
-[Fri Oct  7 23:10:37 2022] 127.0.0.1:1656 [200]: GET /css/bootstrap.min.css
-[Fri Oct  7 23:10:37 2022] 127.0.0.1:1657 [200]: GET /css/telegram.css
-[Fri Oct  7 23:10:37 2022] 127.0.0.1:1655 Closing
-[Fri Oct  7 23:10:37 2022] 127.0.0.1:1656 Closing
-[Fri Oct  7 23:10:37 2022] 127.0.0.1:1657 Closing
-[Fri Oct  7 23:10:57 2022] 127.0.0.1:1667 Accepted
-[Fri Oct  7 23:10:57 2022] 127.0.0.1:1667 [200]: GET /
-[Fri Oct  7 23:10:57 2022] 127.0.0.1:1667 Closing
-[Fri Oct  7 23:10:57 2022] 127.0.0.1:1668 Accepted
-[Fri Oct  7 23:10:57 2022] 127.0.0.1:1669 Accepted
-[Fri Oct  7 23:10:57 2022] 127.0.0.1:1668 [200]: GET /css/css
-[Fri Oct  7 23:10:57 2022] 127.0.0.1:1669 [200]: GET /js/jquery.min.js
-[Fri Oct  7 23:10:57 2022] 127.0.0.1:1668 Closing
-[Fri Oct  7 23:10:57 2022] 127.0.0.1:1669 Closing
-[Fri Oct  7 23:10:57 2022] 127.0.0.1:1670 Accepted
-[Fri Oct  7 23:10:57 2022] 127.0.0.1:1671 Accepted
-[Fri Oct  7 23:10:57 2022] 127.0.0.1:1670 [200]: GET /css/bootstrap.min.css
-[Fri Oct  7 23:10:57 2022] 127.0.0.1:1671 [200]: GET /css/telegram.css
-[Fri Oct  7 23:10:57 2022] 127.0.0.1:1670 Closing
-[Fri Oct  7 23:10:57 2022] 127.0.0.1:1671 Closing
-[Fri Oct  7 23:10:57 2022] 127.0.0.1:1672 Accepted
-[Fri Oct  7 23:10:57 2022] 127.0.0.1:1672 [200]: GET /js/script.js
-[Fri Oct  7 23:10:57 2022] 127.0.0.1:1672 Closing
-[Fri Oct  7 23:10:57 2022] 127.0.0.1:1673 Accepted
-[Fri Oct  7 23:10:57 2022] 127.0.0.1:1673 [200]: GET /images/spinner.png
-[Fri Oct  7 23:10:57 2022] 127.0.0.1:1673 Closing
-[Fri Oct  7 23:10:57 2022] 127.0.0.1:1674 Accepted
-[Fri Oct  7 23:10:57 2022] 127.0.0.1:1674 [200]: GET /images/Arrow_1x.png
-[Fri Oct  7 23:10:57 2022] 127.0.0.1:1674 Closing
-[Fri Oct  7 23:10:57 2022] 127.0.0.1:1676 Accepted
-[Fri Oct  7 23:10:57 2022] PHP Warning:  Undefined array key "HTTP_X_FORWARDED_FOR" in C:\Users\Kassoum\Documents\Cyber security\codes\Hacking Tools\Pentest_tools\phising_test\php\helpers.php on line 31
-[Fri Oct  7 23:10:57 2022] 127.0.0.1:1676 [200]: POST /query_handler.php
-[Fri Oct  7 23:10:57 2022] 127.0.0.1:1676 Closing
-[Fri Oct  7 23:10:58 2022] 127.0.0.1:1677 Accepted
-[Fri Oct  7 23:10:58 2022] 127.0.0.1:1677 [200]: GET /
-[Fri Oct  7 23:10:58 2022] 127.0.0.1:1677 Closing
-[Fri Oct  7 23:10:58 2022] 127.0.0.1:1678 Accepted
-[Fri Oct  7 23:10:58 2022] 127.0.0.1:1679 Accepted
-[Fri Oct  7 23:10:58 2022] 127.0.0.1:1678 [200]: GET /css/css
-[Fri Oct  7 23:10:58 2022] 127.0.0.1:1679 [200]: GET /js/jquery.min.js
-[Fri Oct  7 23:10:58 2022] 127.0.0.1:1680 Accepted
-[Fri Oct  7 23:10:58 2022] 127.0.0.1:1678 Closing
-[Fri Oct  7 23:10:58 2022] 127.0.0.1:1680 [200]: GET /css/bootstrap.min.css
-[Fri Oct  7 23:10:58 2022] 127.0.0.1:1679 Closing
-[Fri Oct  7 23:10:58 2022] 127.0.0.1:1680 Closing
-[Fri Oct  7 23:10:58 2022] 127.0.0.1:1681 Accepted
-[Fri Oct  7 23:10:58 2022] 127.0.0.1:1681 [200]: GET /css/telegram.css
-[Fri Oct  7 23:10:58 2022] 127.0.0.1:1681 Closing
-[Fri Oct  7 23:10:58 2022] 127.0.0.1:1682 Accepted
-[Fri Oct  7 23:10:58 2022] 127.0.0.1:1683 Accepted
-[Fri Oct  7 23:10:58 2022] 127.0.0.1:1682 [200]: GET /js/script.js
-[Fri Oct  7 23:10:58 2022] 127.0.0.1:1683 [200]: GET /images/spinner.png
-[Fri Oct  7 23:10:58 2022] 127.0.0.1:1682 Closing
-[Fri Oct  7 23:10:58 2022] 127.0.0.1:1683 Closing
-[Fri Oct  7 23:10:58 2022] 127.0.0.1:1684 Accepted
-[Fri Oct  7 23:10:58 2022] 127.0.0.1:1684 [200]: GET /images/Arrow_1x.png
-[Fri Oct  7 23:10:58 2022] 127.0.0.1:1684 Closing
-[Fri Oct  7 23:10:58 2022] 127.0.0.1:1685 Accepted
-[Fri Oct  7 23:10:58 2022] PHP Warning:  Undefined array key "HTTP_X_FORWARDED_FOR" in C:\Users\Kassoum\Documents\Cyber security\codes\Hacking Tools\Pentest_tools\phising_test\php\helpers.php on line 31
-[Fri Oct  7 23:10:58 2022] 127.0.0.1:1685 [200]: POST /query_handler.php
-[Fri Oct  7 23:10:58 2022] 127.0.0.1:1685 Closing
-[Fri Oct  7 23:11:39 2022] 127.0.0.1:1704 Accepted
-[Fri Oct  7 23:11:39 2022] 127.0.0.1:1704 [200]: GET /
-[Fri Oct  7 23:11:39 2022] 127.0.0.1:1704 Closing
-[Fri Oct  7 23:11:39 2022] 127.0.0.1:1705 Accepted
-[Fri Oct  7 23:11:39 2022] 127.0.0.1:1705 [200]: GET /js/jquery.min.js
-[Fri Oct  7 23:11:39 2022] 127.0.0.1:1705 Closing
-[Fri Oct  7 23:11:39 2022] 127.0.0.1:1706 Accepted
-[Fri Oct  7 23:11:39 2022] 127.0.0.1:1707 Accepted
-[Fri Oct  7 23:11:39 2022] 127.0.0.1:1708 Accepted
-[Fri Oct  7 23:11:39 2022] 127.0.0.1:1706 [200]: GET /css/css
-[Fri Oct  7 23:11:39 2022] 127.0.0.1:1706 Closing
-[Fri Oct  7 23:11:39 2022] 127.0.0.1:1707 [200]: GET /css/bootstrap.min.css
-[Fri Oct  7 23:11:39 2022] 127.0.0.1:1708 [200]: GET /css/telegram.css
-[Fri Oct  7 23:11:39 2022] 127.0.0.1:1707 Closing
-[Fri Oct  7 23:11:39 2022] 127.0.0.1:1708 Closing
-[Fri Oct  7 23:11:39 2022] 127.0.0.1:1709 Accepted
-[Fri Oct  7 23:11:39 2022] 127.0.0.1:1710 Accepted
-[Fri Oct  7 23:11:39 2022] 127.0.0.1:1709 [200]: GET /js/script.js
-[Fri Oct  7 23:11:39 2022] 127.0.0.1:1710 [200]: GET /images/spinner.png
-[Fri Oct  7 23:11:39 2022] 127.0.0.1:1709 Closing
-[Fri Oct  7 23:11:39 2022] 127.0.0.1:1710 Closing
-[Fri Oct  7 23:11:39 2022] 127.0.0.1:1711 Accepted
-[Fri Oct  7 23:11:39 2022] 127.0.0.1:1711 [200]: GET /images/Arrow_1x.png
-[Fri Oct  7 23:11:39 2022] 127.0.0.1:1711 Closing
-[Fri Oct  7 23:11:39 2022] 127.0.0.1:1712 Accepted
-[Fri Oct  7 23:11:39 2022] PHP Warning:  Undefined array key "HTTP_X_FORWARDED_FOR" in C:\Users\Kassoum\Documents\Cyber security\codes\Hacking Tools\Pentest_tools\phising_test\php\helpers.php on line 31
-[Fri Oct  7 23:11:39 2022] 127.0.0.1:1712 [200]: POST /query_handler.php
-[Fri Oct  7 23:11:39 2022] 127.0.0.1:1712 Closing
-[Fri Oct  7 23:11:43 2022] 127.0.0.1:1714 Accepted
-[Fri Oct  7 23:11:43 2022] 127.0.0.1:1714 [200]: GET /
-[Fri Oct  7 23:11:43 2022] 127.0.0.1:1714 Closing
-[Fri Oct  7 23:11:43 2022] 127.0.0.1:1715 Accepted
-[Fri Oct  7 23:11:43 2022] 127.0.0.1:1716 Accepted
-[Fri Oct  7 23:11:43 2022] 127.0.0.1:1717 Accepted
-[Fri Oct  7 23:11:43 2022] 127.0.0.1:1718 Accepted
-[Fri Oct  7 23:11:43 2022] 127.0.0.1:1715 [200]: GET /js/jquery.min.js
-[Fri Oct  7 23:11:43 2022] 127.0.0.1:1716 [200]: GET /css/css
-[Fri Oct  7 23:11:43 2022] 127.0.0.1:1717 [200]: GET /css/bootstrap.min.css
-[Fri Oct  7 23:11:43 2022] 127.0.0.1:1715 Closing
-[Fri Oct  7 23:11:43 2022] 127.0.0.1:1716 Closing
-[Fri Oct  7 23:11:43 2022] 127.0.0.1:1717 Closing
-[Fri Oct  7 23:11:43 2022] 127.0.0.1:1718 [200]: GET /css/telegram.css
-[Fri Oct  7 23:11:43 2022] 127.0.0.1:1718 Closing
-[Fri Oct  7 23:11:43 2022] 127.0.0.1:1719 Accepted
-[Fri Oct  7 23:11:43 2022] 127.0.0.1:1720 Accepted
-[Fri Oct  7 23:11:43 2022] 127.0.0.1:1719 [200]: GET /js/script.js
-[Fri Oct  7 23:11:43 2022] 127.0.0.1:1719 Closing
-[Fri Oct  7 23:11:43 2022] 127.0.0.1:1720 [200]: GET /images/spinner.png
-[Fri Oct  7 23:11:43 2022] 127.0.0.1:1720 Closing
-[Fri Oct  7 23:11:43 2022] 127.0.0.1:1722 Accepted
-[Fri Oct  7 23:11:43 2022] 127.0.0.1:1722 [200]: GET /images/Arrow_1x.png
-[Fri Oct  7 23:11:43 2022] 127.0.0.1:1722 Closing
-[Fri Oct  7 23:11:43 2022] 127.0.0.1:1723 Accepted
-[Fri Oct  7 23:11:43 2022] PHP Warning:  Undefined array key "HTTP_X_FORWARDED_FOR" in C:\Users\Kassoum\Documents\Cyber security\codes\Hacking Tools\Pentest_tools\phising_test\php\helpers.php on line 31
-[Fri Oct  7 23:11:43 2022] 127.0.0.1:1723 [200]: POST /query_handler.php
-[Fri Oct  7 23:11:43 2022] 127.0.0.1:1723 Closing
-[Fri Oct  7 23:11:43 2022] 127.0.0.1:1724 Accepted
-[Fri Oct  7 23:11:43 2022] 127.0.0.1:1724 [404]: GET /favicon.ico?3 - No such file or directory
-[Fri Oct  7 23:11:43 2022] 127.0.0.1:1724 Closing
-[Fri Oct  7 23:11:48 2022] 127.0.0.1:1727 Accepted
-[Fri Oct  7 23:11:48 2022] 127.0.0.1:1727 [404]: GET /favicon.ico - No such file or directory
-[Fri Oct  7 23:11:48 2022] 127.0.0.1:1727 Closing
-[Fri Oct  7 23:11:51 2022] 127.0.0.1:1729 Accepted
-[Fri Oct  7 23:11:51 2022] 127.0.0.1:1729 [200]: GET /css/bootstrap.min.css
-[Fri Oct  7 23:11:51 2022] 127.0.0.1:1729 Closing
-[Fri Oct  7 23:11:57 2022] 127.0.0.1:1733 Accepted
-[Fri Oct  7 23:11:57 2022] 127.0.0.1:1733 [200]: GET /css/telegram.css
-[Fri Oct  7 23:11:57 2022] 127.0.0.1:1733 Closing
-[Fri Oct  7 23:12:11 2022] 127.0.0.1:1740 Accepted
-[Fri Oct  7 23:12:11 2022] 127.0.0.1:1740 [200]: GET /
-[Fri Oct  7 23:12:11 2022] 127.0.0.1:1740 Closing
-[Fri Oct  7 23:12:11 2022] 127.0.0.1:1741 Accepted
-[Fri Oct  7 23:12:11 2022] 127.0.0.1:1742 Accepted
-[Fri Oct  7 23:12:11 2022] 127.0.0.1:1743 Accepted
-[Fri Oct  7 23:12:11 2022] 127.0.0.1:1744 Accepted
-[Fri Oct  7 23:12:11 2022] 127.0.0.1:1741 [200]: GET /css/css
-[Fri Oct  7 23:12:11 2022] 127.0.0.1:1742 [200]: GET /css/bootstrap.min.css
-[Fri Oct  7 23:12:11 2022] 127.0.0.1:1743 [200]: GET /css/telegram.css
-[Fri Oct  7 23:12:11 2022] 127.0.0.1:1744 [200]: GET /js/jquery.min.js
-[Fri Oct  7 23:12:11 2022] 127.0.0.1:1741 Closing
-[Fri Oct  7 23:12:11 2022] 127.0.0.1:1742 Closing
-[Fri Oct  7 23:12:11 2022] 127.0.0.1:1743 Closing
-[Fri Oct  7 23:12:11 2022] 127.0.0.1:1744 Closing
-[Fri Oct  7 23:12:11 2022] 127.0.0.1:1745 Accepted
-[Fri Oct  7 23:12:11 2022] 127.0.0.1:1745 [200]: GET /js/script.js
-[Fri Oct  7 23:12:11 2022] 127.0.0.1:1745 Closing
-[Fri Oct  7 23:12:11 2022] 127.0.0.1:1746 Accepted
-[Fri Oct  7 23:12:11 2022] 127.0.0.1:1746 [200]: GET /images/spinner.png
-[Fri Oct  7 23:12:11 2022] 127.0.0.1:1746 Closing
-[Fri Oct  7 23:12:11 2022] 127.0.0.1:1747 Accepted
-[Fri Oct  7 23:12:11 2022] 127.0.0.1:1747 [200]: GET /images/Arrow_1x.png
-[Fri Oct  7 23:12:11 2022] 127.0.0.1:1747 Closing
-[Fri Oct  7 23:12:11 2022] 127.0.0.1:1748 Accepted
-[Fri Oct  7 23:12:11 2022] PHP Warning:  Undefined array key "HTTP_X_FORWARDED_FOR" in C:\Users\Kassoum\Documents\Cyber security\codes\Hacking Tools\Pentest_tools\phising_test\php\helpers.php on line 31
-[Fri Oct  7 23:12:11 2022] 127.0.0.1:1748 [200]: POST /query_handler.php
-[Fri Oct  7 23:12:11 2022] 127.0.0.1:1748 Closing
-[Fri Oct  7 23:12:44 2022] 127.0.0.1:1763 Accepted
-[Fri Oct  7 23:12:45 2022] 127.0.0.1:1763 [200]: GET /
-[Fri Oct  7 23:12:45 2022] 127.0.0.1:1763 Closing
-[Fri Oct  7 23:12:45 2022] 127.0.0.1:1764 Accepted
-[Fri Oct  7 23:12:45 2022] 127.0.0.1:1765 Accepted
-[Fri Oct  7 23:12:45 2022] 127.0.0.1:1766 Accepted
-[Fri Oct  7 23:12:45 2022] 127.0.0.1:1767 Accepted
-[Fri Oct  7 23:12:45 2022] 127.0.0.1:1764 [200]: GET /css/css
-[Fri Oct  7 23:12:45 2022] 127.0.0.1:1765 [200]: GET /css/bootstrap.min.css
-[Fri Oct  7 23:12:45 2022] 127.0.0.1:1764 Closing
-[Fri Oct  7 23:12:45 2022] 127.0.0.1:1765 Closing
-[Fri Oct  7 23:12:45 2022] 127.0.0.1:1766 [200]: GET /css/telegram.css
-[Fri Oct  7 23:12:45 2022] 127.0.0.1:1767 [200]: GET /js/jquery.min.js
-[Fri Oct  7 23:12:45 2022] 127.0.0.1:1766 Closing
-[Fri Oct  7 23:12:45 2022] 127.0.0.1:1767 Closing
-[Fri Oct  7 23:12:45 2022] 127.0.0.1:1768 Accepted
-[Fri Oct  7 23:12:45 2022] 127.0.0.1:1768 [200]: GET /js/script.js
-[Fri Oct  7 23:12:45 2022] 127.0.0.1:1768 Closing
-[Fri Oct  7 23:12:45 2022] 127.0.0.1:1769 Accepted
-[Fri Oct  7 23:12:45 2022] 127.0.0.1:1769 [200]: GET /images/spinner.png
-[Fri Oct  7 23:12:45 2022] 127.0.0.1:1769 Closing
-[Fri Oct  7 23:12:45 2022] 127.0.0.1:1770 Accepted
-[Fri Oct  7 23:12:45 2022] 127.0.0.1:1770 [200]: GET /images/Arrow_1x.png
-[Fri Oct  7 23:12:45 2022] 127.0.0.1:1770 Closing
-[Fri Oct  7 23:12:45 2022] 127.0.0.1:1771 Accepted
-[Fri Oct  7 23:12:45 2022] PHP Warning:  Undefined array key "HTTP_X_FORWARDED_FOR" in C:\Users\Kassoum\Documents\Cyber security\codes\Hacking Tools\Pentest_tools\phising_test\php\helpers.php on line 31
-[Fri Oct  7 23:12:45 2022] 127.0.0.1:1771 [200]: POST /query_handler.php
-[Fri Oct  7 23:12:45 2022] 127.0.0.1:1771 Closing
-[Fri Oct  7 23:13:01 2022] 127.0.0.1:1780 Accepted
-[Fri Oct  7 23:13:01 2022] 127.0.0.1:1780 [200]: GET /
-[Fri Oct  7 23:13:01 2022] 127.0.0.1:1780 Closing
-[Fri Oct  7 23:13:01 2022] 127.0.0.1:1781 Accepted
-[Fri Oct  7 23:13:01 2022] 127.0.0.1:1782 Accepted
-[Fri Oct  7 23:13:01 2022] 127.0.0.1:1783 Accepted
-[Fri Oct  7 23:13:01 2022] 127.0.0.1:1784 Accepted
-[Fri Oct  7 23:13:01 2022] 127.0.0.1:1781 [200]: GET /css/css
-[Fri Oct  7 23:13:01 2022] 127.0.0.1:1782 [200]: GET /css/bootstrap.min.css
-[Fri Oct  7 23:13:01 2022] 127.0.0.1:1783 [200]: GET /css/telegram.css
-[Fri Oct  7 23:13:01 2022] 127.0.0.1:1784 [200]: GET /js/jquery.min.js
-[Fri Oct  7 23:13:01 2022] 127.0.0.1:1781 Closing
-[Fri Oct  7 23:13:01 2022] 127.0.0.1:1782 Closing
-[Fri Oct  7 23:13:01 2022] 127.0.0.1:1783 Closing
-[Fri Oct  7 23:13:01 2022] 127.0.0.1:1784 Closing
-[Fri Oct  7 23:13:01 2022] 127.0.0.1:1785 Accepted
-[Fri Oct  7 23:13:01 2022] 127.0.0.1:1785 [200]: GET /js/script.js
-[Fri Oct  7 23:13:01 2022] 127.0.0.1:1785 Closing
-[Fri Oct  7 23:13:01 2022] 127.0.0.1:1786 Accepted
-[Fri Oct  7 23:13:01 2022] 127.0.0.1:1786 [200]: GET /images/spinner.png
-[Fri Oct  7 23:13:01 2022] 127.0.0.1:1786 Closing
-[Fri Oct  7 23:13:01 2022] 127.0.0.1:1787 Accepted
-[Fri Oct  7 23:13:01 2022] 127.0.0.1:1787 [200]: GET /images/Arrow_1x.png
-[Fri Oct  7 23:13:01 2022] 127.0.0.1:1787 Closing
-[Fri Oct  7 23:13:02 2022] 127.0.0.1:1788 Accepted
-[Fri Oct  7 23:13:02 2022] PHP Warning:  Undefined array key "HTTP_X_FORWARDED_FOR" in C:\Users\Kassoum\Documents\Cyber security\codes\Hacking Tools\Pentest_tools\phising_test\php\helpers.php on line 31
-[Fri Oct  7 23:13:02 2022] 127.0.0.1:1788 [200]: POST /query_handler.php
-[Fri Oct  7 23:13:02 2022] 127.0.0.1:1788 Closing
-[Fri Oct  7 23:13:46 2022] 127.0.0.1:1797 Accepted
-[Fri Oct  7 23:13:46 2022] 127.0.0.1:1797 [200]: GET /
-[Fri Oct  7 23:13:46 2022] 127.0.0.1:1797 Closing
-[Fri Oct  7 23:13:47 2022] 127.0.0.1:1798 Accepted
-[Fri Oct  7 23:13:47 2022] 127.0.0.1:1799 Accepted
-[Fri Oct  7 23:13:47 2022] 127.0.0.1:1800 Accepted
-[Fri Oct  7 23:13:47 2022] 127.0.0.1:1801 Accepted
-[Fri Oct  7 23:13:47 2022] 127.0.0.1:1798 [200]: GET /css/css
-[Fri Oct  7 23:13:47 2022] 127.0.0.1:1799 [200]: GET /css/bootstrap.min.css
-[Fri Oct  7 23:13:47 2022] 127.0.0.1:1800 [200]: GET /css/telegram.css
-[Fri Oct  7 23:13:47 2022] 127.0.0.1:1801 [200]: GET /js/jquery.min.js
-[Fri Oct  7 23:13:47 2022] 127.0.0.1:1798 Closing
-[Fri Oct  7 23:13:47 2022] 127.0.0.1:1799 Closing
-[Fri Oct  7 23:13:47 2022] 127.0.0.1:1800 Closing
-[Fri Oct  7 23:13:47 2022] 127.0.0.1:1801 Closing
-[Fri Oct  7 23:13:47 2022] 127.0.0.1:1802 Accepted
-[Fri Oct  7 23:13:47 2022] 127.0.0.1:1802 [200]: GET /js/script.js
-[Fri Oct  7 23:13:47 2022] 127.0.0.1:1802 Closing
-[Fri Oct  7 23:13:47 2022] 127.0.0.1:1803 Accepted
-[Fri Oct  7 23:13:47 2022] 127.0.0.1:1803 [200]: GET /images/spinner.png
-[Fri Oct  7 23:13:47 2022] 127.0.0.1:1803 Closing
-[Fri Oct  7 23:13:47 2022] 127.0.0.1:1804 Accepted
-[Fri Oct  7 23:13:47 2022] 127.0.0.1:1804 [200]: GET /images/Arrow_1x.png
-[Fri Oct  7 23:13:47 2022] 127.0.0.1:1804 Closing
-[Fri Oct  7 23:13:47 2022] 127.0.0.1:1805 Accepted
-[Fri Oct  7 23:13:47 2022] PHP Warning:  Undefined array key "HTTP_X_FORWARDED_FOR" in C:\Users\Kassoum\Documents\Cyber security\codes\Hacking Tools\Pentest_tools\phising_test\php\helpers.php on line 31
-[Fri Oct  7 23:13:47 2022] 127.0.0.1:1805 [200]: POST /query_handler.php
-[Fri Oct  7 23:13:47 2022] 127.0.0.1:1805 Closing
-[Fri Oct  7 23:13:51 2022] 127.0.0.1:1806 Accepted
-[Fri Oct  7 23:13:51 2022] 127.0.0.1:1806 [200]: GET /
-[Fri Oct  7 23:13:51 2022] 127.0.0.1:1806 Closing
-[Fri Oct  7 23:13:52 2022] 127.0.0.1:1807 Accepted
-[Fri Oct  7 23:13:52 2022] 127.0.0.1:1808 Accepted
-[Fri Oct  7 23:13:52 2022] 127.0.0.1:1809 Accepted
-[Fri Oct  7 23:13:52 2022] 127.0.0.1:1810 Accepted
-[Fri Oct  7 23:13:52 2022] 127.0.0.1:1807 [200]: GET /css/css
-[Fri Oct  7 23:13:52 2022] 127.0.0.1:1808 [200]: GET /css/bootstrap.min.css
-[Fri Oct  7 23:13:52 2022] 127.0.0.1:1809 [200]: GET /css/telegram.css
-[Fri Oct  7 23:13:52 2022] 127.0.0.1:1810 [200]: GET /js/jquery.min.js
-[Fri Oct  7 23:13:52 2022] 127.0.0.1:1807 Closing
-[Fri Oct  7 23:13:52 2022] 127.0.0.1:1808 Closing
-[Fri Oct  7 23:13:52 2022] 127.0.0.1:1809 Closing
-[Fri Oct  7 23:13:52 2022] 127.0.0.1:1810 Closing
-[Fri Oct  7 23:13:52 2022] 127.0.0.1:1811 Accepted
-[Fri Oct  7 23:13:52 2022] 127.0.0.1:1811 [200]: GET /js/script.js
-[Fri Oct  7 23:13:52 2022] 127.0.0.1:1811 Closing
-[Fri Oct  7 23:13:52 2022] 127.0.0.1:1812 Accepted
-[Fri Oct  7 23:13:52 2022] 127.0.0.1:1812 [200]: GET /images/spinner.png
-[Fri Oct  7 23:13:52 2022] 127.0.0.1:1812 Closing
-[Fri Oct  7 23:13:52 2022] 127.0.0.1:1813 Accepted
-[Fri Oct  7 23:13:52 2022] 127.0.0.1:1813 [200]: GET /images/Arrow_1x.png
-[Fri Oct  7 23:13:52 2022] 127.0.0.1:1813 Closing
-[Fri Oct  7 23:13:52 2022] 127.0.0.1:1814 Accepted
-[Fri Oct  7 23:13:52 2022] PHP Warning:  Undefined array key "HTTP_X_FORWARDED_FOR" in C:\Users\Kassoum\Documents\Cyber security\codes\Hacking Tools\Pentest_tools\phising_test\php\helpers.php on line 31
-[Fri Oct  7 23:13:52 2022] 127.0.0.1:1814 [200]: POST /query_handler.php
-[Fri Oct  7 23:13:52 2022] 127.0.0.1:1814 Closing
-[Fri Oct  7 23:13:52 2022] 127.0.0.1:1815 Accepted
-[Fri Oct  7 23:13:52 2022] 127.0.0.1:1815 [200]: GET /
-[Fri Oct  7 23:13:52 2022] 127.0.0.1:1815 Closing
-[Fri Oct  7 23:13:52 2022] 127.0.0.1:1816 Accepted
-[Fri Oct  7 23:13:52 2022] 127.0.0.1:1817 Accepted
-[Fri Oct  7 23:13:52 2022] 127.0.0.1:1816 [200]: GET /css/css
-[Fri Oct  7 23:13:52 2022] 127.0.0.1:1817 [200]: GET /js/jquery.min.js
-[Fri Oct  7 23:13:52 2022] 127.0.0.1:1816 Closing
-[Fri Oct  7 23:13:52 2022] 127.0.0.1:1818 Accepted
-[Fri Oct  7 23:13:52 2022] 127.0.0.1:1817 Closing
-[Fri Oct  7 23:13:52 2022] 127.0.0.1:1819 Accepted
-[Fri Oct  7 23:13:53 2022] 127.0.0.1:1818 [200]: GET /css/bootstrap.min.css
-[Fri Oct  7 23:13:53 2022] 127.0.0.1:1819 [200]: GET /css/telegram.css
-[Fri Oct  7 23:13:53 2022] 127.0.0.1:1818 Closing
-[Fri Oct  7 23:13:53 2022] 127.0.0.1:1819 Closing
-[Fri Oct  7 23:13:53 2022] 127.0.0.1:1820 Accepted
-[Fri Oct  7 23:13:53 2022] 127.0.0.1:1820 [200]: GET /js/script.js
-[Fri Oct  7 23:13:53 2022] 127.0.0.1:1820 Closing
-[Fri Oct  7 23:13:53 2022] 127.0.0.1:1821 Accepted
-[Fri Oct  7 23:13:53 2022] 127.0.0.1:1821 [200]: GET /images/spinner.png
-[Fri Oct  7 23:13:53 2022] 127.0.0.1:1821 Closing
-[Fri Oct  7 23:13:53 2022] 127.0.0.1:1822 Accepted
-[Fri Oct  7 23:13:53 2022] 127.0.0.1:1822 [200]: GET /images/Arrow_1x.png
-[Fri Oct  7 23:13:53 2022] 127.0.0.1:1822 Closing
-[Fri Oct  7 23:13:53 2022] 127.0.0.1:1823 Accepted
-[Fri Oct  7 23:13:53 2022] PHP Warning:  Undefined array key "HTTP_X_FORWARDED_FOR" in C:\Users\Kassoum\Documents\Cyber security\codes\Hacking Tools\Pentest_tools\phising_test\php\helpers.php on line 31
-[Fri Oct  7 23:13:53 2022] 127.0.0.1:1823 [200]: POST /query_handler.php
-[Fri Oct  7 23:13:53 2022] 127.0.0.1:1823 Closing
-[Fri Oct  7 23:13:53 2022] 127.0.0.1:1824 Accepted
-[Fri Oct  7 23:13:53 2022] 127.0.0.1:1824 [200]: GET /
-[Fri Oct  7 23:13:53 2022] 127.0.0.1:1824 Closing
-[Fri Oct  7 23:13:54 2022] 127.0.0.1:1825 Accepted
-[Fri Oct  7 23:13:54 2022] 127.0.0.1:1825 [200]: GET /js/jquery.min.js
-[Fri Oct  7 23:13:54 2022] 127.0.0.1:1825 Closing
-[Fri Oct  7 23:13:54 2022] 127.0.0.1:1826 Accepted
-[Fri Oct  7 23:13:54 2022] 127.0.0.1:1827 Accepted
-[Fri Oct  7 23:13:54 2022] 127.0.0.1:1826 [200]: GET /css/css
-[Fri Oct  7 23:13:54 2022] 127.0.0.1:1827 [200]: GET /css/bootstrap.min.css
-[Fri Oct  7 23:13:54 2022] 127.0.0.1:1826 Closing
-[Fri Oct  7 23:13:54 2022] 127.0.0.1:1827 Closing
-[Fri Oct  7 23:13:54 2022] 127.0.0.1:1828 Accepted
-[Fri Oct  7 23:13:54 2022] 127.0.0.1:1828 [200]: GET /css/telegram.css
-[Fri Oct  7 23:13:54 2022] 127.0.0.1:1828 Closing
-[Fri Oct  7 23:13:54 2022] 127.0.0.1:1829 Accepted
-[Fri Oct  7 23:13:54 2022] 127.0.0.1:1830 Accepted
-[Fri Oct  7 23:13:54 2022] 127.0.0.1:1829 [200]: GET /js/script.js
-[Fri Oct  7 23:13:54 2022] 127.0.0.1:1830 [200]: GET /images/spinner.png
-[Fri Oct  7 23:13:54 2022] 127.0.0.1:1829 Closing
-[Fri Oct  7 23:13:54 2022] 127.0.0.1:1830 Closing
-[Fri Oct  7 23:13:54 2022] 127.0.0.1:1831 Accepted
-[Fri Oct  7 23:13:54 2022] 127.0.0.1:1831 [200]: GET /images/Arrow_1x.png
-[Fri Oct  7 23:13:54 2022] 127.0.0.1:1831 Closing
-[Fri Oct  7 23:13:54 2022] 127.0.0.1:1832 Accepted
-[Fri Oct  7 23:13:54 2022] PHP Warning:  Undefined array key "HTTP_X_FORWARDED_FOR" in C:\Users\Kassoum\Documents\Cyber security\codes\Hacking Tools\Pentest_tools\phising_test\php\helpers.php on line 31
-[Fri Oct  7 23:13:54 2022] 127.0.0.1:1832 [200]: POST /query_handler.php
-[Fri Oct  7 23:13:54 2022] 127.0.0.1:1832 Closing
-[Fri Oct  7 23:13:54 2022] 127.0.0.1:1833 Accepted
-[Fri Oct  7 23:13:54 2022] 127.0.0.1:1833 [200]: GET /
-[Fri Oct  7 23:13:54 2022] 127.0.0.1:1833 Closing
-[Fri Oct  7 23:13:54 2022] 127.0.0.1:1834 Accepted
-[Fri Oct  7 23:13:54 2022] 127.0.0.1:1835 Accepted
-[Fri Oct  7 23:13:54 2022] 127.0.0.1:1834 [200]: GET /css/css
-[Fri Oct  7 23:13:54 2022] 127.0.0.1:1835 [200]: GET /js/jquery.min.js
-[Fri Oct  7 23:13:54 2022] 127.0.0.1:1834 Closing
-[Fri Oct  7 23:13:54 2022] 127.0.0.1:1836 Accepted
-[Fri Oct  7 23:13:54 2022] 127.0.0.1:1835 Closing
-[Fri Oct  7 23:13:54 2022] 127.0.0.1:1837 Accepted
-[Fri Oct  7 23:13:54 2022] 127.0.0.1:1836 [200]: GET /css/bootstrap.min.css
-[Fri Oct  7 23:13:54 2022] 127.0.0.1:1837 [200]: GET /css/telegram.css
-[Fri Oct  7 23:13:54 2022] 127.0.0.1:1836 Closing
-[Fri Oct  7 23:13:54 2022] 127.0.0.1:1837 Closing
-[Fri Oct  7 23:13:54 2022] 127.0.0.1:1838 Accepted
-[Fri Oct  7 23:13:54 2022] 127.0.0.1:1839 Accepted
-[Fri Oct  7 23:13:54 2022] 127.0.0.1:1838 [200]: GET /js/script.js
-[Fri Oct  7 23:13:54 2022] 127.0.0.1:1839 [200]: GET /images/spinner.png
-[Fri Oct  7 23:13:54 2022] 127.0.0.1:1838 Closing
-[Fri Oct  7 23:13:54 2022] 127.0.0.1:1839 Closing
-[Fri Oct  7 23:13:54 2022] 127.0.0.1:1840 Accepted
-[Fri Oct  7 23:13:54 2022] 127.0.0.1:1840 [200]: GET /images/Arrow_1x.png
-[Fri Oct  7 23:13:54 2022] 127.0.0.1:1840 Closing
-[Fri Oct  7 23:13:54 2022] 127.0.0.1:1841 Accepted
-[Fri Oct  7 23:13:54 2022] PHP Warning:  Undefined array key "HTTP_X_FORWARDED_FOR" in C:\Users\Kassoum\Documents\Cyber security\codes\Hacking Tools\Pentest_tools\phising_test\php\helpers.php on line 31
-[Fri Oct  7 23:13:54 2022] 127.0.0.1:1841 [200]: POST /query_handler.php
-[Fri Oct  7 23:13:54 2022] 127.0.0.1:1841 Closing
-[Fri Oct  7 23:13:55 2022] 127.0.0.1:1842 Accepted
-[Fri Oct  7 23:13:55 2022] 127.0.0.1:1842 [200]: GET /
-[Fri Oct  7 23:13:55 2022] 127.0.0.1:1842 Closing
-[Fri Oct  7 23:13:55 2022] 127.0.0.1:1843 Accepted
-[Fri Oct  7 23:13:55 2022] 127.0.0.1:1844 Accepted
-[Fri Oct  7 23:13:55 2022] 127.0.0.1:1843 [200]: GET /css/css
-[Fri Oct  7 23:13:55 2022] 127.0.0.1:1843 Closing
-[Fri Oct  7 23:13:55 2022] 127.0.0.1:1844 [200]: GET /js/jquery.min.js
-[Fri Oct  7 23:13:55 2022] 127.0.0.1:1844 Closing
-[Fri Oct  7 23:13:55 2022] 127.0.0.1:1845 Accepted
-[Fri Oct  7 23:13:55 2022] 127.0.0.1:1846 Accepted
-[Fri Oct  7 23:13:55 2022] 127.0.0.1:1845 [200]: GET /css/bootstrap.min.css
-[Fri Oct  7 23:13:55 2022] 127.0.0.1:1846 [200]: GET /css/telegram.css
-[Fri Oct  7 23:13:55 2022] 127.0.0.1:1845 Closing
-[Fri Oct  7 23:13:55 2022] 127.0.0.1:1846 Closing
-[Fri Oct  7 23:13:55 2022] 127.0.0.1:1847 Accepted
-[Fri Oct  7 23:13:55 2022] 127.0.0.1:1847 [200]: GET /js/script.js
-[Fri Oct  7 23:13:55 2022] 127.0.0.1:1847 Closing
-[Fri Oct  7 23:13:55 2022] 127.0.0.1:1848 Accepted
-[Fri Oct  7 23:13:55 2022] 127.0.0.1:1848 [200]: GET /images/spinner.png
-[Fri Oct  7 23:13:55 2022] 127.0.0.1:1848 Closing
-[Fri Oct  7 23:13:55 2022] 127.0.0.1:1849 Accepted
-[Fri Oct  7 23:13:55 2022] 127.0.0.1:1849 [200]: GET /images/Arrow_1x.png
-[Fri Oct  7 23:13:55 2022] 127.0.0.1:1849 Closing
-[Fri Oct  7 23:13:55 2022] 127.0.0.1:1850 Accepted
-[Fri Oct  7 23:13:55 2022] PHP Warning:  Undefined array key "HTTP_X_FORWARDED_FOR" in C:\Users\Kassoum\Documents\Cyber security\codes\Hacking Tools\Pentest_tools\phising_test\php\helpers.php on line 31
-[Fri Oct  7 23:13:55 2022] 127.0.0.1:1850 [200]: POST /query_handler.php
-[Fri Oct  7 23:13:55 2022] 127.0.0.1:1850 Closing
-[Fri Oct  7 23:13:55 2022] 127.0.0.1:1851 Accepted
-[Fri Oct  7 23:13:55 2022] 127.0.0.1:1851 [200]: GET /
-[Fri Oct  7 23:13:55 2022] 127.0.0.1:1851 Closing
-[Fri Oct  7 23:13:55 2022] 127.0.0.1:1852 Accepted
-[Fri Oct  7 23:13:55 2022] 127.0.0.1:1853 Accepted
-[Fri Oct  7 23:13:55 2022] 127.0.0.1:1854 Accepted
-[Fri Oct  7 23:13:55 2022] 127.0.0.1:1855 Accepted
-[Fri Oct  7 23:13:55 2022] 127.0.0.1:1852 [200]: GET /css/css
-[Fri Oct  7 23:13:55 2022] 127.0.0.1:1853 [200]: GET /css/telegram.css
-[Fri Oct  7 23:13:55 2022] 127.0.0.1:1854 [200]: GET /css/bootstrap.min.css
-[Fri Oct  7 23:13:55 2022] 127.0.0.1:1855 [200]: GET /js/jquery.min.js
-[Fri Oct  7 23:13:55 2022] 127.0.0.1:1852 Closing
-[Fri Oct  7 23:13:55 2022] 127.0.0.1:1853 Closing
-[Fri Oct  7 23:13:55 2022] 127.0.0.1:1854 Closing
-[Fri Oct  7 23:13:55 2022] 127.0.0.1:1855 Closing
-[Fri Oct  7 23:13:55 2022] 127.0.0.1:1856 Accepted
-[Fri Oct  7 23:13:55 2022] 127.0.0.1:1856 [200]: GET /js/script.js
-[Fri Oct  7 23:13:55 2022] 127.0.0.1:1856 Closing
-[Fri Oct  7 23:13:55 2022] 127.0.0.1:1857 Accepted
-[Fri Oct  7 23:13:55 2022] 127.0.0.1:1857 [200]: GET /images/spinner.png
-[Fri Oct  7 23:13:55 2022] 127.0.0.1:1857 Closing
-[Fri Oct  7 23:13:55 2022] 127.0.0.1:1858 Accepted
-[Fri Oct  7 23:13:55 2022] 127.0.0.1:1858 [200]: GET /images/Arrow_1x.png
-[Fri Oct  7 23:13:55 2022] 127.0.0.1:1858 Closing
-[Fri Oct  7 23:13:55 2022] 127.0.0.1:1859 Accepted
-[Fri Oct  7 23:13:55 2022] PHP Warning:  Undefined array key "HTTP_X_FORWARDED_FOR" in C:\Users\Kassoum\Documents\Cyber security\codes\Hacking Tools\Pentest_tools\phising_test\php\helpers.php on line 31
-[Fri Oct  7 23:13:55 2022] 127.0.0.1:1859 [200]: POST /query_handler.php
-[Fri Oct  7 23:13:55 2022] 127.0.0.1:1859 Closing
-[Fri Oct  7 23:14:00 2022] 127.0.0.1:1860 Accepted
-[Fri Oct  7 23:14:00 2022] 127.0.0.1:1860 [200]: GET /
-[Fri Oct  7 23:14:00 2022] 127.0.0.1:1860 Closing
-[Fri Oct  7 23:14:00 2022] 127.0.0.1:1861 Accepted
-[Fri Oct  7 23:14:00 2022] 127.0.0.1:1862 Accepted
-[Fri Oct  7 23:14:00 2022] 127.0.0.1:1863 Accepted
-[Fri Oct  7 23:14:00 2022] 127.0.0.1:1864 Accepted
-[Fri Oct  7 23:14:00 2022] 127.0.0.1:1861 [200]: GET /css/css
-[Fri Oct  7 23:14:00 2022] 127.0.0.1:1862 [200]: GET /css/bootstrap.min.css
-[Fri Oct  7 23:14:00 2022] 127.0.0.1:1863 [200]: GET /css/telegram.css
-[Fri Oct  7 23:14:00 2022] 127.0.0.1:1864 [200]: GET /js/jquery.min.js
-[Fri Oct  7 23:14:00 2022] 127.0.0.1:1861 Closing
-[Fri Oct  7 23:14:00 2022] 127.0.0.1:1862 Closing
-[Fri Oct  7 23:14:00 2022] 127.0.0.1:1863 Closing
-[Fri Oct  7 23:14:00 2022] 127.0.0.1:1864 Closing
-[Fri Oct  7 23:14:00 2022] 127.0.0.1:1865 Accepted
-[Fri Oct  7 23:14:00 2022] 127.0.0.1:1866 Accepted
-[Fri Oct  7 23:14:00 2022] 127.0.0.1:1865 [200]: GET /js/script.js
-[Fri Oct  7 23:14:00 2022] 127.0.0.1:1865 Closing
-[Fri Oct  7 23:14:00 2022] 127.0.0.1:1866 [200]: GET /images/spinner.png
-[Fri Oct  7 23:14:00 2022] 127.0.0.1:1866 Closing
-[Fri Oct  7 23:14:00 2022] 127.0.0.1:1867 Accepted
-[Fri Oct  7 23:14:00 2022] 127.0.0.1:1867 [200]: GET /images/Arrow_1x.png
-[Fri Oct  7 23:14:00 2022] 127.0.0.1:1867 Closing
-[Fri Oct  7 23:14:00 2022] 127.0.0.1:1868 Accepted
-[Fri Oct  7 23:14:00 2022] PHP Warning:  Undefined array key "HTTP_X_FORWARDED_FOR" in C:\Users\Kassoum\Documents\Cyber security\codes\Hacking Tools\Pentest_tools\phising_test\php\helpers.php on line 31
-[Fri Oct  7 23:14:00 2022] 127.0.0.1:1868 [200]: POST /query_handler.php
-[Fri Oct  7 23:14:00 2022] 127.0.0.1:1868 Closing
-[Fri Oct  7 23:14:00 2022] 127.0.0.1:1869 Accepted
-[Fri Oct  7 23:14:00 2022] 127.0.0.1:1869 [200]: GET /
-[Fri Oct  7 23:14:00 2022] 127.0.0.1:1869 Closing
-[Fri Oct  7 23:14:00 2022] 127.0.0.1:1870 Accepted
-[Fri Oct  7 23:14:00 2022] 127.0.0.1:1871 Accepted
-[Fri Oct  7 23:14:00 2022] 127.0.0.1:1870 [200]: GET /css/css
-[Fri Oct  7 23:14:00 2022] 127.0.0.1:1871 [200]: GET /js/jquery.min.js
-[Fri Oct  7 23:14:00 2022] 127.0.0.1:1870 Closing
-[Fri Oct  7 23:14:00 2022] 127.0.0.1:1872 Accepted
-[Fri Oct  7 23:14:00 2022] 127.0.0.1:1871 Closing
-[Fri Oct  7 23:14:00 2022] 127.0.0.1:1873 Accepted
-[Fri Oct  7 23:14:00 2022] 127.0.0.1:1872 [200]: GET /css/bootstrap.min.css
-[Fri Oct  7 23:14:00 2022] 127.0.0.1:1873 [200]: GET /css/telegram.css
-[Fri Oct  7 23:14:00 2022] 127.0.0.1:1872 Closing
-[Fri Oct  7 23:14:00 2022] 127.0.0.1:1873 Closing
-[Fri Oct  7 23:14:00 2022] 127.0.0.1:1874 Accepted
-[Fri Oct  7 23:14:00 2022] 127.0.0.1:1875 Accepted
-[Fri Oct  7 23:14:00 2022] 127.0.0.1:1874 [200]: GET /js/script.js
-[Fri Oct  7 23:14:00 2022] 127.0.0.1:1875 [200]: GET /images/spinner.png
-[Fri Oct  7 23:14:00 2022] 127.0.0.1:1874 Closing
-[Fri Oct  7 23:14:00 2022] 127.0.0.1:1875 Closing
-[Fri Oct  7 23:14:00 2022] 127.0.0.1:1876 Accepted
-[Fri Oct  7 23:14:00 2022] 127.0.0.1:1876 [200]: GET /images/Arrow_1x.png
-[Fri Oct  7 23:14:00 2022] 127.0.0.1:1876 Closing
-[Fri Oct  7 23:14:01 2022] 127.0.0.1:1877 Accepted
-[Fri Oct  7 23:14:01 2022] PHP Warning:  Undefined array key "HTTP_X_FORWARDED_FOR" in C:\Users\Kassoum\Documents\Cyber security\codes\Hacking Tools\Pentest_tools\phising_test\php\helpers.php on line 31
-[Fri Oct  7 23:14:01 2022] 127.0.0.1:1877 [200]: POST /query_handler.php
-[Fri Oct  7 23:14:01 2022] 127.0.0.1:1877 Closing
-[Fri Oct  7 23:14:16 2022] 127.0.0.1:1878 Accepted
-[Fri Oct  7 23:14:16 2022] 127.0.0.1:1878 [200]: GET /css/css
-[Fri Oct  7 23:14:16 2022] 127.0.0.1:1878 Closing
-[Fri Oct  7 23:14:16 2022] 127.0.0.1:1879 Accepted
-[Fri Oct  7 23:14:16 2022] 127.0.0.1:1880 Accepted
-[Fri Oct  7 23:14:16 2022] 127.0.0.1:1879 [200]: GET /css/bootstrap.min.css
-[Fri Oct  7 23:14:16 2022] 127.0.0.1:1880 [200]: GET /css/telegram.css
-[Fri Oct  7 23:14:16 2022] 127.0.0.1:1879 Closing
-[Fri Oct  7 23:14:16 2022] 127.0.0.1:1880 Closing
-[Fri Oct  7 23:15:35 2022] 127.0.0.1:1916 Accepted
-[Fri Oct  7 23:15:35 2022] 127.0.0.1:1916 [200]: GET /
-[Fri Oct  7 23:15:35 2022] 127.0.0.1:1916 Closing
-[Fri Oct  7 23:15:35 2022] 127.0.0.1:1917 Accepted
-[Fri Oct  7 23:15:35 2022] 127.0.0.1:1918 Accepted
-[Fri Oct  7 23:15:35 2022] 127.0.0.1:1919 Accepted
-[Fri Oct  7 23:15:35 2022] 127.0.0.1:1920 Accepted
-[Fri Oct  7 23:15:35 2022] 127.0.0.1:1917 [200]: GET /css/css
-[Fri Oct  7 23:15:35 2022] 127.0.0.1:1918 [200]: GET /css/bootstrap.min.css
-[Fri Oct  7 23:15:35 2022] 127.0.0.1:1919 [200]: GET /css/telegram.css
-[Fri Oct  7 23:15:35 2022] 127.0.0.1:1920 [200]: GET /js/jquery.min.js
-[Fri Oct  7 23:15:35 2022] 127.0.0.1:1917 Closing
-[Fri Oct  7 23:15:35 2022] 127.0.0.1:1918 Closing
-[Fri Oct  7 23:15:35 2022] 127.0.0.1:1919 Closing
-[Fri Oct  7 23:15:35 2022] 127.0.0.1:1920 Closing
-[Fri Oct  7 23:15:35 2022] 127.0.0.1:1921 Accepted
-[Fri Oct  7 23:15:35 2022] 127.0.0.1:1921 [200]: GET /js/script.js
-[Fri Oct  7 23:15:35 2022] 127.0.0.1:1921 Closing
-[Fri Oct  7 23:15:35 2022] 127.0.0.1:1923 Accepted
-[Fri Oct  7 23:15:35 2022] 127.0.0.1:1923 [200]: GET /images/spinner.png
-[Fri Oct  7 23:15:35 2022] 127.0.0.1:1923 Closing
-[Fri Oct  7 23:15:35 2022] 127.0.0.1:1924 Accepted
-[Fri Oct  7 23:15:35 2022] 127.0.0.1:1924 [200]: GET /images/Arrow_1x.png
-[Fri Oct  7 23:15:35 2022] 127.0.0.1:1924 Closing
-[Fri Oct  7 23:15:36 2022] 127.0.0.1:1925 Accepted
-[Fri Oct  7 23:15:36 2022] PHP Warning:  Undefined array key "HTTP_X_FORWARDED_FOR" in C:\Users\Kassoum\Documents\Cyber security\codes\Hacking Tools\Pentest_tools\phising_test\php\helpers.php on line 31
-[Fri Oct  7 23:15:36 2022] 127.0.0.1:1925 [200]: POST /query_handler.php
-[Fri Oct  7 23:15:36 2022] 127.0.0.1:1925 Closing
-[Fri Oct  7 23:16:18 2022] 127.0.0.1:1944 Accepted
-[Fri Oct  7 23:16:18 2022] 127.0.0.1:1944 [200]: GET /
-[Fri Oct  7 23:16:18 2022] 127.0.0.1:1944 Closing
-[Fri Oct  7 23:16:18 2022] 127.0.0.1:1945 Accepted
-[Fri Oct  7 23:16:18 2022] 127.0.0.1:1946 Accepted
-[Fri Oct  7 23:16:18 2022] 127.0.0.1:1947 Accepted
-[Fri Oct  7 23:16:18 2022] 127.0.0.1:1948 Accepted
-[Fri Oct  7 23:16:18 2022] 127.0.0.1:1945 [200]: GET /css/css
-[Fri Oct  7 23:16:18 2022] 127.0.0.1:1946 [200]: GET /css/bootstrap.min.css
-[Fri Oct  7 23:16:18 2022] 127.0.0.1:1947 [200]: GET /css/telegram.css
-[Fri Oct  7 23:16:18 2022] 127.0.0.1:1948 [200]: GET /js/jquery.min.js
-[Fri Oct  7 23:16:18 2022] 127.0.0.1:1945 Closing
-[Fri Oct  7 23:16:18 2022] 127.0.0.1:1946 Closing
-[Fri Oct  7 23:16:18 2022] 127.0.0.1:1947 Closing
-[Fri Oct  7 23:16:18 2022] 127.0.0.1:1948 Closing
-[Fri Oct  7 23:16:18 2022] 127.0.0.1:1949 Accepted
-[Fri Oct  7 23:16:18 2022] 127.0.0.1:1950 Accepted
-[Fri Oct  7 23:16:18 2022] 127.0.0.1:1949 [200]: GET /js/script.js
-[Fri Oct  7 23:16:18 2022] 127.0.0.1:1950 [200]: GET /images/spinner.png
-[Fri Oct  7 23:16:18 2022] 127.0.0.1:1949 Closing
-[Fri Oct  7 23:16:18 2022] 127.0.0.1:1950 Closing
-[Fri Oct  7 23:16:18 2022] 127.0.0.1:1951 Accepted
-[Fri Oct  7 23:16:18 2022] 127.0.0.1:1951 [200]: GET /images/Arrow_1x.png
-[Fri Oct  7 23:16:18 2022] 127.0.0.1:1951 Closing
-[Fri Oct  7 23:16:18 2022] 127.0.0.1:1952 Accepted
-[Fri Oct  7 23:16:18 2022] PHP Warning:  Undefined array key "HTTP_X_FORWARDED_FOR" in C:\Users\Kassoum\Documents\Cyber security\codes\Hacking Tools\Pentest_tools\phising_test\php\helpers.php on line 31
-[Fri Oct  7 23:16:18 2022] 127.0.0.1:1952 [200]: POST /query_handler.php
-[Fri Oct  7 23:16:18 2022] 127.0.0.1:1952 Closing
-[Fri Oct  7 23:16:20 2022] 127.0.0.1:1954 Accepted
-[Fri Oct  7 23:16:20 2022] 127.0.0.1:1954 [200]: GET /
-[Fri Oct  7 23:16:20 2022] 127.0.0.1:1954 Closing
-[Fri Oct  7 23:16:20 2022] 127.0.0.1:1955 Accepted
-[Fri Oct  7 23:16:20 2022] 127.0.0.1:1955 [200]: GET /js/jquery.min.js
-[Fri Oct  7 23:16:20 2022] 127.0.0.1:1955 Closing
-[Fri Oct  7 23:16:20 2022] 127.0.0.1:1956 Accepted
-[Fri Oct  7 23:16:20 2022] 127.0.0.1:1957 Accepted
-[Fri Oct  7 23:16:20 2022] 127.0.0.1:1956 [200]: GET /css/css
-[Fri Oct  7 23:16:20 2022] 127.0.0.1:1956 Closing
-[Fri Oct  7 23:16:20 2022] 127.0.0.1:1957 [200]: GET /css/bootstrap.min.css
-[Fri Oct  7 23:16:20 2022] 127.0.0.1:1957 Closing
-[Fri Oct  7 23:16:20 2022] 127.0.0.1:1958 Accepted
-[Fri Oct  7 23:16:20 2022] 127.0.0.1:1958 [200]: GET /css/telegram.css
-[Fri Oct  7 23:16:20 2022] 127.0.0.1:1958 Closing
-[Fri Oct  7 23:16:20 2022] 127.0.0.1:1959 Accepted
-[Fri Oct  7 23:16:20 2022] 127.0.0.1:1959 [200]: GET /js/script.js
-[Fri Oct  7 23:16:20 2022] 127.0.0.1:1959 Closing
-[Fri Oct  7 23:16:20 2022] 127.0.0.1:1960 Accepted
-[Fri Oct  7 23:16:20 2022] 127.0.0.1:1960 [200]: GET /images/spinner.png
-[Fri Oct  7 23:16:20 2022] 127.0.0.1:1960 Closing
-[Fri Oct  7 23:16:20 2022] 127.0.0.1:1961 Accepted
-[Fri Oct  7 23:16:20 2022] 127.0.0.1:1961 [200]: GET /images/Arrow_1x.png
-[Fri Oct  7 23:16:20 2022] 127.0.0.1:1961 Closing
-[Fri Oct  7 23:16:20 2022] 127.0.0.1:1962 Accepted
-[Fri Oct  7 23:16:20 2022] PHP Warning:  Undefined array key "HTTP_X_FORWARDED_FOR" in C:\Users\Kassoum\Documents\Cyber security\codes\Hacking Tools\Pentest_tools\phising_test\php\helpers.php on line 31
-[Fri Oct  7 23:16:20 2022] 127.0.0.1:1962 [200]: POST /query_handler.php
-[Fri Oct  7 23:16:20 2022] 127.0.0.1:1962 Closing
-[Fri Oct  7 23:16:33 2022] 127.0.0.1:1969 Accepted
-[Fri Oct  7 23:16:33 2022] 127.0.0.1:1969 [200]: GET /
-[Fri Oct  7 23:16:33 2022] 127.0.0.1:1969 Closing
-[Fri Oct  7 23:16:34 2022] 127.0.0.1:1970 Accepted
-[Fri Oct  7 23:16:34 2022] 127.0.0.1:1970 [200]: GET /js/jquery.min.js
-[Fri Oct  7 23:16:34 2022] 127.0.0.1:1970 Closing
-[Fri Oct  7 23:16:34 2022] 127.0.0.1:1971 Accepted
-[Fri Oct  7 23:16:34 2022] 127.0.0.1:1972 Accepted
-[Fri Oct  7 23:16:34 2022] 127.0.0.1:1973 Accepted
-[Fri Oct  7 23:16:34 2022] 127.0.0.1:1971 [200]: GET /css/css
-[Fri Oct  7 23:16:34 2022] 127.0.0.1:1972 [200]: GET /css/bootstrap.min.css
-[Fri Oct  7 23:16:34 2022] 127.0.0.1:1973 [200]: GET /css/telegram.css
-[Fri Oct  7 23:16:34 2022] 127.0.0.1:1971 Closing
-[Fri Oct  7 23:16:34 2022] 127.0.0.1:1972 Closing
-[Fri Oct  7 23:16:34 2022] 127.0.0.1:1973 Closing
-[Fri Oct  7 23:16:34 2022] 127.0.0.1:1974 Accepted
-[Fri Oct  7 23:16:34 2022] 127.0.0.1:1975 Accepted
-[Fri Oct  7 23:16:34 2022] 127.0.0.1:1974 [200]: GET /js/script.js
-[Fri Oct  7 23:16:34 2022] 127.0.0.1:1975 [200]: GET /images/spinner.png
-[Fri Oct  7 23:16:34 2022] 127.0.0.1:1974 Closing
-[Fri Oct  7 23:16:34 2022] 127.0.0.1:1975 Closing
-[Fri Oct  7 23:16:34 2022] 127.0.0.1:1976 Accepted
-[Fri Oct  7 23:16:34 2022] 127.0.0.1:1976 [200]: GET /images/Arrow_1x.png
-[Fri Oct  7 23:16:34 2022] 127.0.0.1:1976 Closing
-[Fri Oct  7 23:16:34 2022] 127.0.0.1:1977 Accepted
-[Fri Oct  7 23:16:34 2022] PHP Warning:  Undefined array key "HTTP_X_FORWARDED_FOR" in C:\Users\Kassoum\Documents\Cyber security\codes\Hacking Tools\Pentest_tools\phising_test\php\helpers.php on line 31
-[Fri Oct  7 23:16:34 2022] 127.0.0.1:1977 [200]: POST /query_handler.php
-[Fri Oct  7 23:16:34 2022] 127.0.0.1:1977 Closing
+[Fri Oct  7 23:59:52 2022] PHP 8.1.5 Development Server (http://127.0.0.1:8000) started
+[Sat Oct  8 00:00:02 2022] 127.0.0.1:14979 Accepted
+[Sat Oct  8 00:00:02 2022] 127.0.0.1:14979 [200]: GET /?token=cfjenefmklemfklmfkef209123mkerf
+[Sat Oct  8 00:00:02 2022] 127.0.0.1:14979 Closing
+[Sat Oct  8 00:00:02 2022] 127.0.0.1:14980 Accepted
+[Sat Oct  8 00:00:02 2022] 127.0.0.1:14980 [200]: GET /css/main.css
+[Sat Oct  8 00:00:02 2022] 127.0.0.1:14980 Closing
+[Sat Oct  8 00:00:02 2022] 127.0.0.1:14981 Accepted
+[Sat Oct  8 00:00:02 2022] 127.0.0.1:14982 Accepted
+[Sat Oct  8 00:00:02 2022] 127.0.0.1:14981 [200]: GET /js/locate.js
+[Sat Oct  8 00:00:02 2022] 127.0.0.1:14982 [200]: GET /js/script.js
+[Sat Oct  8 00:00:02 2022] 127.0.0.1:14981 Closing
+[Sat Oct  8 00:00:02 2022] 127.0.0.1:14982 Closing
+[Sat Oct  8 00:00:02 2022] 127.0.0.1:14983 Accepted
+[Sat Oct  8 00:00:02 2022] 127.0.0.1:14984 Accepted
+[Sat Oct  8 00:00:02 2022] 127.0.0.1:14983 [200]: GET /images/googlelogo_color_116x41dp.png
+[Sat Oct  8 00:00:02 2022] 127.0.0.1:14984 [200]: GET /images/locked_doc-2.svg
+[Sat Oct  8 00:00:02 2022] 127.0.0.1:14983 Closing
+[Sat Oct  8 00:00:02 2022] 127.0.0.1:14984 Closing
+[Sat Oct  8 00:00:02 2022] 127.0.0.1:14985 Accepted
+[Sat Oct  8 00:00:02 2022] 127.0.0.1:14985 [404]: GET /fonts/pxiDypQkot1TnFhsFMOfGShVF9eO.woff2 - No such file or directory
+[Sat Oct  8 00:00:02 2022] 127.0.0.1:14985 Closing
+[Sat Oct  8 00:00:02 2022] 127.0.0.1:14986 Accepted
+[Sat Oct  8 00:00:02 2022] PHP Warning:  Undefined array key "HTTP_X_FORWARDED_FOR" in C:\Users\Kassoum\Documents\Cyber security\codes\Hacking Tools\Pentest_tools\phising_test\php\helpers.php on line 31
+[Sat Oct  8 00:00:02 2022] 127.0.0.1:14986 [200]: POST /query_handler.php
+[Sat Oct  8 00:00:02 2022] 127.0.0.1:14986 Closing
+[Sat Oct  8 00:01:11 2022] 127.0.0.1:15017 Accepted
+[Sat Oct  8 00:01:11 2022] 127.0.0.1:15017 [200]: GET /?token=cfjenefmklemfklmfkef209123mkerf
+[Sat Oct  8 00:01:11 2022] 127.0.0.1:15017 Closing
+[Sat Oct  8 00:01:11 2022] 127.0.0.1:15018 Accepted
+[Sat Oct  8 00:01:11 2022] 127.0.0.1:15019 Accepted
+[Sat Oct  8 00:01:11 2022] 127.0.0.1:15020 Accepted
+[Sat Oct  8 00:01:11 2022] 127.0.0.1:15018 [200]: GET /css/main.css
+[Sat Oct  8 00:01:11 2022] 127.0.0.1:15018 Closing
+[Sat Oct  8 00:01:11 2022] 127.0.0.1:15020 [200]: GET /js/script.js
+[Sat Oct  8 00:01:11 2022] 127.0.0.1:15019 [200]: GET /js/locate.js
+[Sat Oct  8 00:01:11 2022] 127.0.0.1:15020 Closing
+[Sat Oct  8 00:01:11 2022] 127.0.0.1:15019 Closing
+[Sat Oct  8 00:01:12 2022] 127.0.0.1:15021 Accepted
+[Sat Oct  8 00:01:12 2022] 127.0.0.1:15021 [200]: GET /images/googlelogo_color_116x41dp.png
+[Sat Oct  8 00:01:12 2022] 127.0.0.1:15021 Closing
+[Sat Oct  8 00:01:12 2022] 127.0.0.1:15022 Accepted
+[Sat Oct  8 00:01:12 2022] 127.0.0.1:15022 [200]: GET /images/locked_doc-2.svg
+[Sat Oct  8 00:01:12 2022] 127.0.0.1:15022 Closing
+[Sat Oct  8 00:01:12 2022] 127.0.0.1:15023 Accepted
+[Sat Oct  8 00:01:12 2022] 127.0.0.1:15023 [200]: GET /fonts/pxiDypQkot1TnFhsFMOfGShVF9eO.woff2
+[Sat Oct  8 00:01:12 2022] 127.0.0.1:15023 Closing
+[Sat Oct  8 00:01:12 2022] 127.0.0.1:15024 Accepted
+[Sat Oct  8 00:01:12 2022] PHP Warning:  Undefined array key "HTTP_X_FORWARDED_FOR" in C:\Users\Kassoum\Documents\Cyber security\codes\Hacking Tools\Pentest_tools\phising_test\php\helpers.php on line 31
+[Sat Oct  8 00:01:12 2022] 127.0.0.1:15024 [200]: POST /query_handler.php
+[Sat Oct  8 00:01:12 2022] 127.0.0.1:15024 Closing
+[Sat Oct  8 00:06:44 2022] 127.0.0.1:15249 Accepted
+[Sat Oct  8 00:06:44 2022] 127.0.0.1:15250 Accepted
+[Sat Oct  8 00:06:45 2022] 127.0.0.1:15250 [200]: GET /?token=cfjenefmklemfklmfkef209123mkerf
+[Sat Oct  8 00:06:45 2022] 127.0.0.1:15250 Closing
+[Sat Oct  8 00:06:45 2022] 127.0.0.1:15249 [200]: GET /css/main.css
+[Sat Oct  8 00:06:45 2022] 127.0.0.1:15249 Closing
+[Sat Oct  8 00:06:45 2022] 127.0.0.1:15251 Accepted
+[Sat Oct  8 00:06:45 2022] 127.0.0.1:15252 Accepted
+[Sat Oct  8 00:06:45 2022] 127.0.0.1:15251 [200]: GET /js/script.js
+[Sat Oct  8 00:06:45 2022] 127.0.0.1:15252 [200]: GET /js/locate.js
+[Sat Oct  8 00:06:45 2022] 127.0.0.1:15251 Closing
+[Sat Oct  8 00:06:45 2022] 127.0.0.1:15252 Closing
+[Sat Oct  8 00:06:45 2022] 127.0.0.1:15253 Accepted
+[Sat Oct  8 00:06:45 2022] 127.0.0.1:15254 Accepted
+[Sat Oct  8 00:06:45 2022] 127.0.0.1:15253 [200]: GET /images/googlelogo_color_116x41dp.png
+[Sat Oct  8 00:06:45 2022] 127.0.0.1:15254 [200]: GET /images/locked_doc-2.svg
+[Sat Oct  8 00:06:45 2022] 127.0.0.1:15253 Closing
+[Sat Oct  8 00:06:45 2022] 127.0.0.1:15254 Closing
+[Sat Oct  8 00:06:45 2022] 127.0.0.1:15255 Accepted
+[Sat Oct  8 00:06:45 2022] 127.0.0.1:15255 [200]: GET /fonts/pxiDypQkot1TnFhsFMOfGShVF9eO.woff2
+[Sat Oct  8 00:06:45 2022] 127.0.0.1:15255 Closing
+[Sat Oct  8 00:06:45 2022] 127.0.0.1:15256 Accepted
+[Sat Oct  8 00:06:45 2022] PHP Warning:  Undefined array key "HTTP_X_FORWARDED_FOR" in C:\Users\Kassoum\Documents\Cyber security\codes\Hacking Tools\Pentest_tools\phising_test\php\helpers.php on line 31
+[Sat Oct  8 00:06:45 2022] 127.0.0.1:15256 [200]: POST /query_handler.php
+[Sat Oct  8 00:06:45 2022] 127.0.0.1:15256 Closing
+[Sat Oct  8 00:06:45 2022] 127.0.0.1:15257 Accepted
+[Sat Oct  8 00:06:45 2022] 127.0.0.1:15257 [404]: GET /images/drive_favicon1.ico - No such file or directory
+[Sat Oct  8 00:06:45 2022] 127.0.0.1:15257 Closing
+[Sat Oct  8 00:06:56 2022] 127.0.0.1:15263 Accepted
+[Sat Oct  8 00:06:56 2022] 127.0.0.1:15263 [200]: GET /?token=cfjenefmklemfklmfkef209123mkerf
+[Sat Oct  8 00:06:56 2022] 127.0.0.1:15263 Closing
+[Sat Oct  8 00:06:56 2022] 127.0.0.1:15264 Accepted
+[Sat Oct  8 00:06:56 2022] 127.0.0.1:15264 [200]: GET /css/main.css
+[Sat Oct  8 00:06:56 2022] 127.0.0.1:15266 Accepted
+[Sat Oct  8 00:06:56 2022] 127.0.0.1:15264 Closing
+[Sat Oct  8 00:06:56 2022] 127.0.0.1:15267 Accepted
+[Sat Oct  8 00:06:56 2022] 127.0.0.1:15266 [200]: GET /js/script.js
+[Sat Oct  8 00:06:56 2022] 127.0.0.1:15266 Closing
+[Sat Oct  8 00:06:56 2022] 127.0.0.1:15267 [200]: GET /js/locate.js
+[Sat Oct  8 00:06:56 2022] 127.0.0.1:15267 Closing
+[Sat Oct  8 00:06:56 2022] 127.0.0.1:15268 Accepted
+[Sat Oct  8 00:06:56 2022] 127.0.0.1:15269 Accepted
+[Sat Oct  8 00:06:56 2022] 127.0.0.1:15268 [200]: GET /images/googlelogo_color_116x41dp.png
+[Sat Oct  8 00:06:56 2022] 127.0.0.1:15269 [200]: GET /images/locked_doc-2.svg
+[Sat Oct  8 00:06:56 2022] 127.0.0.1:15268 Closing
+[Sat Oct  8 00:06:56 2022] 127.0.0.1:15269 Closing
+[Sat Oct  8 00:06:56 2022] 127.0.0.1:15270 Accepted
+[Sat Oct  8 00:06:56 2022] 127.0.0.1:15270 [200]: GET /fonts/pxiDypQkot1TnFhsFMOfGShVF9eO.woff2
+[Sat Oct  8 00:06:56 2022] 127.0.0.1:15270 Closing
+[Sat Oct  8 00:06:56 2022] 127.0.0.1:15271 Accepted
+[Sat Oct  8 00:06:56 2022] PHP Warning:  Undefined array key "HTTP_X_FORWARDED_FOR" in C:\Users\Kassoum\Documents\Cyber security\codes\Hacking Tools\Pentest_tools\phising_test\php\helpers.php on line 31
+[Sat Oct  8 00:06:56 2022] 127.0.0.1:15271 [200]: POST /query_handler.php
+[Sat Oct  8 00:06:56 2022] 127.0.0.1:15271 Closing
+[Sat Oct  8 00:09:08 2022] 127.0.0.1:15335 Accepted
+[Sat Oct  8 00:09:08 2022] 127.0.0.1:15335 [200]: GET /?token=cfjenefmklemfklmfkef209123mkerf
+[Sat Oct  8 00:09:08 2022] 127.0.0.1:15335 Closing
+[Sat Oct  8 00:09:08 2022] 127.0.0.1:15336 Accepted
+[Sat Oct  8 00:09:08 2022] 127.0.0.1:15337 Accepted
+[Sat Oct  8 00:09:08 2022] 127.0.0.1:15336 [200]: GET /css/main.css
+[Sat Oct  8 00:09:08 2022] 127.0.0.1:15337 [200]: GET /js/script.js
+[Sat Oct  8 00:09:08 2022] 127.0.0.1:15338 Accepted
+[Sat Oct  8 00:09:08 2022] 127.0.0.1:15338 [200]: GET /js/locate.js
+[Sat Oct  8 00:09:08 2022] 127.0.0.1:15336 Closing
+[Sat Oct  8 00:09:08 2022] 127.0.0.1:15337 Closing
+[Sat Oct  8 00:09:08 2022] 127.0.0.1:15338 Closing
+[Sat Oct  8 00:09:08 2022] 127.0.0.1:15339 Accepted
+[Sat Oct  8 00:09:08 2022] 127.0.0.1:15339 [200]: GET /images/googlelogo_color_116x41dp.png
+[Sat Oct  8 00:09:08 2022] 127.0.0.1:15339 Closing
+[Sat Oct  8 00:09:08 2022] 127.0.0.1:15340 Accepted
+[Sat Oct  8 00:09:08 2022] 127.0.0.1:15340 [200]: GET /images/locked_doc-2.svg
+[Sat Oct  8 00:09:08 2022] 127.0.0.1:15340 Closing
+[Sat Oct  8 00:09:08 2022] 127.0.0.1:15341 Accepted
+[Sat Oct  8 00:09:08 2022] 127.0.0.1:15341 [200]: GET /fonts/pxiDypQkot1TnFhsFMOfGShVF9eO.woff2
+[Sat Oct  8 00:09:08 2022] 127.0.0.1:15341 Closing
+[Sat Oct  8 00:09:08 2022] 127.0.0.1:15342 Accepted
+[Sat Oct  8 00:09:08 2022] PHP Warning:  Undefined array key "HTTP_X_FORWARDED_FOR" in C:\Users\Kassoum\Documents\Cyber security\codes\Hacking Tools\Pentest_tools\phising_test\php\helpers.php on line 31
+[Sat Oct  8 00:09:08 2022] 127.0.0.1:15342 [200]: POST /query_handler.php
+[Sat Oct  8 00:09:08 2022] 127.0.0.1:15342 Closing

